@@ -1,63 +1,105 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
   <!-- Relative base: the app works from any folder of the site. -->
   <base href="./">
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="OP Impostor: juegos de One Piece para jugar en grupo.">
+
+  <title>OP Impostor · Juegos de One Piece online para jugar en grupo</title>
+  <meta name="description" content="Juegos de One Piece gratis para jugar con amigos desde el navegador: Impostor, Adivina el Personaje, La Torre, Subasta de personajes, Top 8 y El Rosco (como Pasapalabra). Sin descargar nada.">
+  <link rel="canonical" href="https://lucotefe1.github.io/op-impostor/">
+
+  <!-- Preview when the link is shared (WhatsApp, Discord, redes). -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:site_name" content="OP Impostor">
+  <meta property="og:title" content="OP Impostor · Juegos de One Piece para jugar en grupo">
+  <meta property="og:description" content="Impostor, Adivina el Personaje, La Torre, Subasta, Top 8 y El Rosco: juegos de One Piece gratis desde el navegador.">
+  <meta property="og:url" content="https://lucotefe1.github.io/op-impostor/">
+  <meta property="og:image" content="https://lucotefe1.github.io/op-impostor/icons/Icon-512.png">
+  <meta name="twitter:card" content="summary">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="OP Impostor">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>OP Impostor</title>
   <link rel="manifest" href="manifest.json">
-</head>
-<body style="margin:0;background:#3D2817">
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
 
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "OP Impostor",
+    "url": "https://lucotefe1.github.io/op-impostor/",
+    "applicationCategory": "GameApplication",
+    "operatingSystem": "Web",
+    "inLanguage": "es",
+    "isAccessibleForFree": true,
+    "description": "Juegos de One Piece para jugar en grupo desde el navegador: Impostor, Adivina el Personaje, La Torre, Subasta, Top 8 y El Rosco."
+  }
+  </script>
+
+  <style>
+    body { margin: 0; background: #3D2817; }
+    /* Real text for search engines and screen readers. It's the loading
+       screen; once the game draws its first frame it stays in the page
+       but only for screen readers and crawlers. */
+    #intro {
+      font-family: system-ui, sans-serif; color: #F5ECD8; line-height: 1.5;
+      max-width: 640px; margin: 8vh auto; padding: 24px; text-align: center;
+    }
+    #intro h1 { color: #F0C874; margin-bottom: 4px; }
+    #intro ul { text-align: left; display: inline-block; padding-left: 20px; }
+    #intro .loading { color: #F0C874; font-weight: bold; }
+    #intro.ready {
+      position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0;
+      overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+    }
+  </style>
+</head>
+<body>
+  <main id="intro">
+    <h1>OP Impostor</h1>
+    <p>Juegos de One Piece gratis para jugar en grupo, desde el celular o la
+      computadora, sin descargar nada.</p>
+    <ul>
+      <li><strong>Impostor</strong>: todos reciben la misma palabra secreta
+        de One Piece menos el impostor. Hablen, sospechen y voten.</li>
+      <li><strong>Adivina el Personaje</strong>: el grupo te elige un
+        personaje de One Piece y lo adivinás con preguntas de sí o no.</li>
+      <li><strong>La Torre</strong>: cada uno recibe una categoría secreta y
+        nombra personajes hasta descubrirla.</li>
+      <li><strong>Subasta</strong>: pujá por personajes con crédito limitado
+        y armá la mejor tripulación.</li>
+      <li><strong>Top 8</strong>: ordená personajes en tu top a medida que
+        aparecen, sin poder moverlos.</li>
+      <li><strong>El Rosco</strong>: como Pasapalabra, una definición de One
+        Piece por cada letra del abecedario.</li>
+    </ul>
+    <p>Con límite de spoilers por arco, para jugar aunque no estés al día.</p>
+    <p class="loading">Cargando el juego…</p>
+    <p><small>Proyecto de fans sin fines de lucro. One Piece pertenece a
+      Eiichiro Oda / Shueisha / Toei Animation.</small></p>
+  </main>
+
   <script>
     // Opened by double-clicking index.html: browsers don't let a Flutter
     // app load its files from disk, so explain instead of a blank page.
     if (location.protocol === 'file:') {
       document.addEventListener('DOMContentLoaded', function () {
-        document.body.innerHTML =
-          '<div style="font-family:sans-serif;color:#F5ECD8;max-width:520px;' +
-          'margin:15vh auto;padding:24px;text-align:center;line-height:1.5">' +
-          '<h1 style="color:#F0C874">OP Impostor</h1>' +
-          '<p>Esta carpeta es un sitio web: no se abre con doble clic.</p>' +
-          '<p>Subila a un hosting (por ejemplo Netlify Drop) y entrá ' +
-          'desde el link que te den.</p></div>';
+        document.querySelector('#intro .loading').textContent =
+          'Esta carpeta es un sitio web: no se abre con doble clic. ' +
+          'Subila a un hosting y entrá desde el link que te den.';
       });
     }
+    window.addEventListener('flutter-first-frame', function () {
+      document.getElementById('intro').classList.add('ready');
+    });
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>

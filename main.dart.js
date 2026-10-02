@@ -93053,7 +93053,7 @@ $1(a){return this.a.azE()},
 $S:57}
 A.P5.prototype={
 E(a){var s=A.b([A.pV(new A.ag5(this),t.CC),A.pV(new A.ag6(this),t.E1),A.pV(new A.ag7(),t.J),A.pV(new A.ag8(),t.UL),A.pV(new A.ag9(),t.PW),A.pV(new A.aga(),t.y9),A.pV(new A.agb(),t.yW),A.pV(new A.agc(),t.P2)],t.Ds)
-return A.aXB(new A.Cb(B.UZ,new A.agd(),"Op Impostor",A.b3d(),!1,null),s)}}
+return A.aXB(new A.Cb(B.UZ,new A.agd(),"OP Impostor \xb7 Juegos de One Piece online para jugar en grupo",A.b3d(),!1,null),s)}}
 A.ag5.prototype={
 $1(a){return this.a.c},
 $S:581}
