@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <!-- Relative base: the app works from any folder of the site. -->
+  <base href="./">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="OP Impostor: juegos de One Piece para jugar en grupo.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="OP Impostor">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>OP Impostor</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body style="margin:0;background:#3D2817">
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script>
+    // Opened by double-clicking index.html: browsers don't let a Flutter
+    // app load its files from disk, so explain instead of a blank page.
+    if (location.protocol === 'file:') {
+      document.addEventListener('DOMContentLoaded', function () {
+        document.body.innerHTML =
+          '<div style="font-family:sans-serif;color:#F5ECD8;max-width:520px;' +
+          'margin:15vh auto;padding:24px;text-align:center;line-height:1.5">' +
+          '<h1 style="color:#F0C874">OP Impostor</h1>' +
+          '<p>Esta carpeta es un sitio web: no se abre con doble clic.</p>' +
+          '<p>Subila a un hosting (por ejemplo Netlify Drop) y entrá ' +
+          'desde el link que te den.</p></div>';
+      });
+    }
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

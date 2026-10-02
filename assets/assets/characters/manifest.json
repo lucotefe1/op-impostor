@@ -1,0 +1,5015 @@
+[
+  {
+    "rank": 1,
+    "name": "Monkey D. Luffy",
+    "file": "1-monkey_d_luffy.webp",
+    "nameEs": "Monkey D. Luffy",
+    "hint": "carne",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 2,
+    "name": "Roronoa Zoro",
+    "file": "2-roronoa_zoro.webp",
+    "nameEs": "Roronoa Zoro",
+    "hint": "perdido",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 3,
+    "name": "Nami",
+    "file": "3-nami.webp",
+    "nameEs": "Nami",
+    "hint": "dinero",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 4,
+    "name": "Usopp",
+    "file": "4-usopp.webp",
+    "nameEs": "Usopp",
+    "hint": "mentiras",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 5,
+    "name": "Sanji",
+    "file": "5-sanji.webp",
+    "nameEs": "Sanji",
+    "hint": "mujeriego",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 6,
+    "name": "Tony Tony Chopper",
+    "file": "6-tony_tony_chopper.webp",
+    "nameEs": "Tony Tony Chopper",
+    "hint": "tímido",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 7,
+    "name": "Nico Robin",
+    "file": "7-nico_robin.webp",
+    "nameEs": "Nico Robin",
+    "hint": "morado",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 8,
+    "name": "Franky",
+    "file": "8-franky.webp",
+    "nameEs": "Franky",
+    "hint": "astillero",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 9,
+    "name": "Brook",
+    "file": "9-brook.webp",
+    "nameEs": "Brook",
+    "hint": "música",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 10,
+    "name": "Jinbe",
+    "file": "10-jinbe.webp",
+    "nameEs": "Jinbe",
+    "hint": "lealtad",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 11,
+    "name": "Portgas D. Ace",
+    "file": "11-portgas_d_ace.webp",
+    "nameEs": "Portgas D. Ace",
+    "hint": "pecas",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 12,
+    "name": "Trafalgar Law",
+    "file": "12-trafalgar_law.webp",
+    "nameEs": "Trafalgar Law",
+    "hint": "tatuajes",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 13,
+    "name": "Shanks",
+    "file": "13-shanks.webp",
+    "nameEs": "Shanks",
+    "hint": "cicatriz",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 14,
+    "name": "Boa Hancock",
+    "file": "14-boa_hancock.webp",
+    "nameEs": "Boa Hancock",
+    "hint": "orgullosa",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 15,
+    "name": "Dracule Mihawk",
+    "file": "15-dracule_mihawk.webp",
+    "nameEs": "Dracule Mihawk",
+    "hint": "vino",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 16,
+    "name": "Edward Newgate",
+    "file": "16-edward_newgate.webp",
+    "nameEs": "Edward Newgate",
+    "hint": "padre",
+    "arc": 16,
+    "hintArc": 16
+  },
+  {
+    "rank": 17,
+    "name": "Marshall D. Teach",
+    "file": "17-marshall_d_teach.webp",
+    "nameEs": "Marshall D. Teach",
+    "hint": "traición",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 18,
+    "name": "Kaido",
+    "file": "18-kaido.webp",
+    "nameEs": "Kaido",
+    "hint": "sake",
+    "arc": 26,
+    "hintArc": 30
+  },
+  {
+    "rank": 19,
+    "name": "Charlotte Linlin",
+    "file": "19-charlotte_linlin.webp",
+    "nameEs": "Charlotte Linlin",
+    "hint": "dulces",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 20,
+    "name": "Donquixote Doflamingo",
+    "file": "20-donquixote_doflamingo.webp",
+    "nameEs": "Donquixote Doflamingo",
+    "hint": "gafas",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 21,
+    "name": "Crocodile",
+    "file": "21-crocodile.webp",
+    "nameEs": "Crocodile",
+    "hint": "garfio",
+    "arc": 7,
+    "hintArc": 10
+  },
+  {
+    "rank": 22,
+    "name": "Buggy",
+    "file": "22-buggy.webp",
+    "nameEs": "Buggy",
+    "hint": "cobarde",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 23,
+    "name": "Nefertari Vivi",
+    "file": "23-nefertari_vivi.webp",
+    "nameEs": "Nefertari Vivi",
+    "hint": "desierto",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 24,
+    "name": "Sabo",
+    "file": "24-sabo.webp",
+    "nameEs": "Sabo",
+    "hint": "revolución",
+    "arc": 22,
+    "hintArc": 26
+  },
+  {
+    "rank": 25,
+    "name": "Smoker",
+    "file": "25-smoker.webp",
+    "nameEs": "Smoker",
+    "hint": "puros",
+    "arc": 5,
+    "hintArc": 5
+  },
+  {
+    "rank": 26,
+    "name": "Tashigi",
+    "file": "26-tashigi.webp",
+    "nameEs": "Tashigi",
+    "hint": "gafas",
+    "arc": 5,
+    "hintArc": 5
+  },
+  {
+    "rank": 27,
+    "name": "Monkey D. Garp",
+    "file": "27-monkey_d_garp.webp",
+    "nameEs": "Monkey D. Garp",
+    "hint": "cañón",
+    "arc": 16,
+    "hintArc": 16
+  },
+  {
+    "rank": 28,
+    "name": "Silvers Rayleigh",
+    "file": "28-silvers_rayleigh.webp",
+    "nameEs": "Silvers Rayleigh",
+    "hint": "remolcador",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 29,
+    "name": "Gol D. Roger",
+    "file": "29-gol_d_roger.webp",
+    "nameEs": "Gol D. Roger",
+    "hint": "enfermedad",
+    "arc": 0,
+    "hintArc": 18
+  },
+  {
+    "rank": 30,
+    "name": "Sakazuki",
+    "file": "30-sakazuki.webp",
+    "nameEs": "Sakazuki",
+    "hint": "cruel",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 31,
+    "name": "Borsalino",
+    "file": "31-borsalino.webp",
+    "nameEs": "Borsalino",
+    "hint": "perezoso",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 32,
+    "name": "Kuzan",
+    "file": "32-kuzan.webp",
+    "nameEs": "Kuzan",
+    "hint": "bicicleta",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 33,
+    "name": "Sengoku",
+    "file": "33-sengoku.webp",
+    "nameEs": "Sengoku",
+    "hint": "jubilado",
+    "arc": 11,
+    "hintArc": 22
+  },
+  {
+    "rank": 34,
+    "name": "Rob Lucci",
+    "file": "34-rob_lucci.webp",
+    "nameEs": "Rob Lucci",
+    "hint": "paloma",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 35,
+    "name": "Enel",
+    "file": "35-enel.webp",
+    "nameEs": "Enel",
+    "hint": "luna",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 36,
+    "name": "Gecko Moria",
+    "file": "36-gecko_moria.webp",
+    "nameEs": "Gecko Moria",
+    "hint": "ejército",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 37,
+    "name": "Bartholomew Kuma",
+    "file": "37-bartholomew_kuma.webp",
+    "nameEs": "Bartholomew Kuma",
+    "hint": "silencioso",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 38,
+    "name": "Perona",
+    "file": "38-perona.webp",
+    "nameEs": "Perona",
+    "hint": "gótica",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 39,
+    "name": "Eustass Kid",
+    "file": "39-eustass_kid.webp",
+    "nameEs": "Eustass Kid",
+    "hint": "brazo",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 40,
+    "name": "Killer",
+    "file": "40-killer.webp",
+    "nameEs": "Killer",
+    "hint": "máscara",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 41,
+    "name": "Basil Hawkins",
+    "file": "41-basil_hawkins.webp",
+    "nameEs": "Basil Hawkins",
+    "hint": "calculador",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 42,
+    "name": "Charlotte Katakuri",
+    "file": "42-charlotte_katakuri.webp",
+    "nameEs": "Charlotte Katakuri",
+    "hint": "bufanda",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 43,
+    "name": "Kozuki Oden",
+    "file": "43-kozuki_oden.webp",
+    "nameEs": "Kozuki Oden",
+    "hint": "baile",
+    "arc": 27,
+    "hintArc": 30
+  },
+  {
+    "rank": 44,
+    "name": "Kozuki Momonosuke",
+    "file": "44-kozuki_momonosuke.webp",
+    "nameEs": "Kozuki Momonosuke",
+    "hint": "heredero",
+    "arc": 25,
+    "hintArc": 27
+  },
+  {
+    "rank": 45,
+    "name": "Yamato",
+    "file": "45-yamato.webp",
+    "nameEs": "Yamato",
+    "hint": "libertad",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 46,
+    "name": "King",
+    "file": "46-king.webp",
+    "nameEs": "King",
+    "hint": "máscara",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 47,
+    "name": "Queen",
+    "file": "47-queen.webp",
+    "nameEs": "Queen",
+    "hint": "baile",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 48,
+    "name": "Jack",
+    "file": "48-jack.webp",
+    "nameEs": "Jack",
+    "hint": "brutal",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 49,
+    "name": "Vinsmoke Reiju",
+    "file": "49-vinsmoke_reiju.webp",
+    "nameEs": "Vinsmoke Reiju",
+    "hint": "hermana",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 50,
+    "name": "Carrot",
+    "file": "50-carrot.webp",
+    "nameEs": "Carrot",
+    "hint": "energética",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 51,
+    "name": "Coby",
+    "file": "51-coby.webp",
+    "nameEs": "Coby",
+    "hint": "marino",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 52,
+    "name": "Marco",
+    "file": "52-marco.webp",
+    "nameEs": "Marco",
+    "hint": "piña",
+    "arc": 16,
+    "hintArc": 16
+  },
+  {
+    "rank": 53,
+    "name": "Bartolomeo",
+    "file": "53-bartolomeo.webp",
+    "nameEs": "Bartolomeo",
+    "hint": "fanático",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 54,
+    "name": "Vegapunk",
+    "file": "54-vegapunk.webp",
+    "nameEs": "Vegapunk",
+    "hint": "científico",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 55,
+    "name": "Kin'emon",
+    "file": "55-kin_emon.webp",
+    "nameEs": "Kin'emon",
+    "hint": "samurái",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 56,
+    "name": "Nekomamushi",
+    "file": "56-nekomamushi.webp",
+    "nameEs": "Nekomamushi",
+    "hint": "guardián",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 57,
+    "name": "Inuarashi",
+    "file": "57-inuarashi.webp",
+    "nameEs": "Inuarashi",
+    "hint": "sueño",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 58,
+    "name": "Caesar Clown",
+    "file": "58-caesar_clown.webp",
+    "nameEs": "Caesar Clown",
+    "hint": "científico",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 59,
+    "name": "Arlong",
+    "file": "59-arlong.webp",
+    "nameEs": "Arlong",
+    "hint": "odio",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 60,
+    "name": "Bepo",
+    "file": "60-bepo.webp",
+    "nameEs": "Bepo",
+    "hint": "navegante",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 61,
+    "name": "Vinsmoke Judge",
+    "file": "61-vinsmoke_judge.webp",
+    "nameEs": "Vinsmoke Judge",
+    "hint": "arrogante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 62,
+    "name": "Ivankov",
+    "file": "62-ivankov.webp",
+    "nameEs": "Ivankov",
+    "hint": "revolucionario",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 63,
+    "name": "Koala",
+    "file": "63-koala.webp",
+    "nameEs": "Koala",
+    "hint": "esclava",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 64,
+    "name": "Monkey D. Dragon",
+    "file": "64-monkey_d_dragon.webp",
+    "nameEs": "Monkey D. Dragon",
+    "hint": "padre",
+    "arc": 16,
+    "hintArc": 16
+  },
+  {
+    "rank": 65,
+    "name": "Fujitora",
+    "file": "65-fujitora.webp",
+    "nameEs": "Fujitora",
+    "hint": "honesto",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 66,
+    "name": "Charlotte Cracker",
+    "file": "66-charlotte_cracker.webp",
+    "nameEs": "Charlotte Cracker",
+    "hint": "elegante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 67,
+    "name": "Charlotte Smoothie",
+    "file": "67-charlotte_smoothie.webp",
+    "nameEs": "Charlotte Smoothie",
+    "hint": "sed",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 68,
+    "name": "Charlotte Perospero",
+    "file": "68-charlotte_perospero.webp",
+    "nameEs": "Charlotte Perospero",
+    "hint": "sonriente",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 69,
+    "name": "Charlotte Pudding",
+    "file": "69-charlotte_pudding.webp",
+    "nameEs": "Charlotte Pudding",
+    "hint": "mentirosa",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 70,
+    "name": "Cavendish",
+    "file": "70-cavendish.webp",
+    "nameEs": "Cavendish",
+    "hint": "vanidoso",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 71,
+    "name": "Rebecca",
+    "file": "71-rebecca.webp",
+    "nameEs": "Rebecca",
+    "hint": "amable",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 72,
+    "name": "Viola",
+    "file": "72-viola.webp",
+    "nameEs": "Viola",
+    "hint": "espía",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 73,
+    "name": "Diamante",
+    "file": "73-diamante.webp",
+    "nameEs": "Diamante",
+    "hint": "oficial",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 74,
+    "name": "Trebol",
+    "file": "74-trebol.webp",
+    "nameEs": "Trebol",
+    "hint": "asqueroso",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 75,
+    "name": "Pica",
+    "file": "75-pica.webp",
+    "nameEs": "Pica",
+    "hint": "voz",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 76,
+    "name": "Baby 5",
+    "file": "76-baby_5.webp",
+    "nameEs": "Baby 5",
+    "hint": "inseguridad",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 77,
+    "name": "Sugar",
+    "file": "77-sugar.webp",
+    "nameEs": "Sugar",
+    "hint": "llorona",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 78,
+    "name": "Kyros",
+    "file": "78-kyros.webp",
+    "nameEs": "Kyros",
+    "hint": "estatua",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 79,
+    "name": "Hody Jones",
+    "file": "79-hody_jones.webp",
+    "nameEs": "Hody Jones",
+    "hint": "rencor",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 80,
+    "name": "Shirahoshi",
+    "file": "80-shirahoshi.webp",
+    "nameEs": "Shirahoshi",
+    "hint": "tímida",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 81,
+    "name": "Neptune",
+    "file": "81-neptune.webp",
+    "nameEs": "Neptune",
+    "hint": "tridente",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 82,
+    "name": "Vander Decken IX",
+    "file": "82-vander_decken_ix.webp",
+    "nameEs": "Vander Decken IX",
+    "hint": "obsesión",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 83,
+    "name": "Monet",
+    "file": "83-monet.webp",
+    "nameEs": "Monet",
+    "hint": "sonrisa",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 84,
+    "name": "Vergo",
+    "file": "84-vergo.webp",
+    "nameEs": "Vergo",
+    "hint": "espía",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 85,
+    "name": "Spandam",
+    "file": "85-spandam.webp",
+    "nameEs": "Spandam",
+    "hint": "cobarde",
+    "arc": 14,
+    "hintArc": 15
+  },
+  {
+    "rank": 86,
+    "name": "Kaku",
+    "file": "86-kaku.webp",
+    "nameEs": "Kaku",
+    "hint": "carpintero",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 87,
+    "name": "Kalifa",
+    "file": "87-kalifa.webp",
+    "nameEs": "Kalifa",
+    "hint": "secretaria",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 88,
+    "name": "Jabra",
+    "file": "88-jabra.webp",
+    "nameEs": "Jabra",
+    "hint": "arrogante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 89,
+    "name": "Blueno",
+    "file": "89-blueno.webp",
+    "nameEs": "Blueno",
+    "hint": "barman",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 90,
+    "name": "Iceburg",
+    "file": "90-iceburg.webp",
+    "nameEs": "Iceburg",
+    "hint": "alcalde",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 91,
+    "name": "Paulie",
+    "file": "91-paulie.webp",
+    "nameEs": "Paulie",
+    "hint": "astillero",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 92,
+    "name": "Absalom",
+    "file": "92-absalom.webp",
+    "nameEs": "Absalom",
+    "hint": "pervertido",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 93,
+    "name": "Hogback",
+    "file": "93-hogback.webp",
+    "nameEs": "Hogback",
+    "hint": "científico",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 94,
+    "name": "Cindry",
+    "file": "94-cindry.webp",
+    "nameEs": "Cindry",
+    "hint": "actriz",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 95,
+    "name": "Duval",
+    "file": "95-duval.webp",
+    "nameEs": "Duval",
+    "hint": "obsesión",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 96,
+    "name": "Hatchan",
+    "file": "96-hatchan.webp",
+    "nameEs": "Hatchan",
+    "hint": "amable",
+    "arc": 4,
+    "hintArc": 18
+  },
+  {
+    "rank": 97,
+    "name": "Wyper",
+    "file": "97-wyper.webp",
+    "nameEs": "Wyper",
+    "hint": "guerrero",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 98,
+    "name": "Gan Fall",
+    "file": "98-gan_fall.webp",
+    "nameEs": "Gan Fall",
+    "hint": "caballero",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 99,
+    "name": "Bellamy",
+    "file": "99-bellamy.webp",
+    "nameEs": "Bellamy",
+    "hint": "arrogante",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 100,
+    "name": "Foxy",
+    "file": "100-foxy.webp",
+    "nameEs": "Foxy",
+    "hint": "celoso",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 101,
+    "name": "Don Krieg",
+    "file": "101-don_krieg.webp",
+    "nameEs": "Don Krieg",
+    "hint": "ejército",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 102,
+    "name": "Captain Kuro",
+    "file": "102-captain_kuro.webp",
+    "nameEs": "Captain Kuro",
+    "hint": "uñas",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 103,
+    "name": "Wapol",
+    "file": "103-wapol.webp",
+    "nameEs": "Wapol",
+    "hint": "glotón",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 104,
+    "name": "Mr. 3",
+    "file": "104-mr_3.webp",
+    "nameEs": "Mr. 3",
+    "hint": "presumido",
+    "arc": 8,
+    "hintArc": 8
+  },
+  {
+    "rank": 105,
+    "name": "Mr. 1",
+    "file": "105-mr_1.webp",
+    "nameEs": "Mr. 1",
+    "hint": "silencioso",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 106,
+    "name": "Miss Doublefinger",
+    "file": "106-miss_doublefinger.webp",
+    "nameEs": "Miss Doublefinger",
+    "hint": "elegante",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 107,
+    "name": "Pell",
+    "file": "107-pell.webp",
+    "nameEs": "Pell",
+    "hint": "sacrificio",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 108,
+    "name": "Chaka",
+    "file": "108-chaka.webp",
+    "nameEs": "Chaka",
+    "hint": "guardián",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 109,
+    "name": "Magellan",
+    "file": "109-magellan.webp",
+    "nameEs": "Magellan",
+    "hint": "prisión",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 110,
+    "name": "Hannyabal",
+    "file": "110-hannyabal.webp",
+    "nameEs": "Hannyabal",
+    "hint": "kabuki",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 111,
+    "name": "Sadi",
+    "file": "111-sadi.webp",
+    "nameEs": "Sadi",
+    "hint": "cruel",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 112,
+    "name": "Inazuma",
+    "file": "112-inazuma.webp",
+    "nameEs": "Inazuma",
+    "hint": "revolucionario",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 113,
+    "name": "Otohime",
+    "file": "113-otohime.webp",
+    "nameEs": "Otohime",
+    "hint": "reina",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 114,
+    "name": "Van Augur",
+    "file": "114-van_augur.webp",
+    "nameEs": "Van Augur",
+    "hint": "piano",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 115,
+    "name": "Jesus Burgess",
+    "file": "115-jesus_burgess.webp",
+    "nameEs": "Jesus Burgess",
+    "hint": "circo",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 116,
+    "name": "Avalo Pizarro",
+    "file": "116-avalo_pizarro.webp",
+    "nameEs": "Avalo Pizarro",
+    "hint": "capitán",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 117,
+    "name": "Laffitte",
+    "file": "117-laffitte.webp",
+    "nameEs": "Laffitte",
+    "hint": "sombrero",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 118,
+    "name": "Shiryu",
+    "file": "118-shiryu.webp",
+    "nameEs": "Shiryu",
+    "hint": "carcelero",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 119,
+    "name": "Catarina Devon",
+    "file": "119-catarina_devon.webp",
+    "nameEs": "Catarina Devon",
+    "hint": "misteriosa",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 120,
+    "name": "Sanjuan Wolf",
+    "file": "120-sanjuan_wolf.webp",
+    "nameEs": "Sanjuan Wolf",
+    "hint": "gigante",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 121,
+    "name": "Ulti",
+    "file": "121-ulti.webp",
+    "nameEs": "Ulti",
+    "hint": "grosera",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 122,
+    "name": "Page One",
+    "file": "122-page_one.webp",
+    "nameEs": "Page One",
+    "hint": "arrogante",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 123,
+    "name": "Sasaki",
+    "file": "123-sasaki.webp",
+    "nameEs": "Sasaki",
+    "hint": "general",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 124,
+    "name": "X Drake",
+    "file": "124-x_drake.webp",
+    "nameEs": "X Drake",
+    "hint": "espía",
+    "arc": 18,
+    "hintArc": 30
+  },
+  {
+    "rank": 125,
+    "name": "Black Maria",
+    "file": "125-black_maria.webp",
+    "nameEs": "Black Maria",
+    "hint": "geisha",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 126,
+    "name": "Who's-Who",
+    "file": "126-who_s_who.webp",
+    "nameEs": "Who's-Who",
+    "hint": "exmarino",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 127,
+    "name": "Orochi",
+    "file": "127-orochi.webp",
+    "nameEs": "Orochi",
+    "hint": "cobarde",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 128,
+    "name": "Kanjuro",
+    "file": "128-kanjuro.webp",
+    "nameEs": "Kanjuro",
+    "hint": "traidor",
+    "arc": 26,
+    "hintArc": 30
+  },
+  {
+    "rank": 129,
+    "name": "Denjiro",
+    "file": "129-denjiro.webp",
+    "nameEs": "Denjiro",
+    "hint": "cocinero",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 130,
+    "name": "Kawamatsu",
+    "file": "130-kawamatsu.webp",
+    "nameEs": "Kawamatsu",
+    "hint": "prisión",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 131,
+    "name": "Hyogoro",
+    "file": "131-hyogoro.webp",
+    "nameEs": "Hyogoro",
+    "hint": "yakuza",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 132,
+    "name": "Tama",
+    "file": "132-tama.webp",
+    "nameEs": "Tama",
+    "hint": "huérfana",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 133,
+    "name": "Toko",
+    "file": "133-toko.webp",
+    "nameEs": "Toko",
+    "hint": "niña",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 134,
+    "name": "Scratchmen Apoo",
+    "file": "134-scratchmen_apoo.webp",
+    "nameEs": "Scratchmen Apoo",
+    "hint": "desleal",
+    "arc": 18,
+    "hintArc": 30
+  },
+  {
+    "rank": 135,
+    "name": "Streusen",
+    "file": "135-streusen.webp",
+    "nameEs": "Streusen",
+    "hint": "pastelero",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 136,
+    "name": "Charlotte Snack",
+    "file": "136-charlotte_snack.webp",
+    "nameEs": "Charlotte Snack",
+    "hint": "comandante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 137,
+    "name": "Charlotte Oven",
+    "file": "137-charlotte_oven.webp",
+    "nameEs": "Charlotte Oven",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 138,
+    "name": "Charlotte Daifuku",
+    "file": "138-charlotte_daifuku.webp",
+    "nameEs": "Charlotte Daifuku",
+    "hint": "gemelo",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 139,
+    "name": "Charlotte Compote",
+    "file": "139-charlotte_compote.webp",
+    "nameEs": "Charlotte Compote",
+    "hint": "elegante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 140,
+    "name": "Charlotte Galette",
+    "file": "140-charlotte_galette.webp",
+    "nameEs": "Charlotte Galette",
+    "hint": "alta",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 141,
+    "name": "Charlotte Brulee",
+    "file": "141-charlotte_brulee.webp",
+    "nameEs": "Charlotte Brulee",
+    "hint": "celosa",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 142,
+    "name": "Marguerite",
+    "file": "142-marguerite.webp",
+    "nameEs": "Marguerite",
+    "hint": "amazona",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 143,
+    "name": "Sandersonia",
+    "file": "143-sandersonia.webp",
+    "nameEs": "Sandersonia",
+    "hint": "hermana",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 144,
+    "name": "Marigold",
+    "file": "144-marigold.webp",
+    "nameEs": "Marigold",
+    "hint": "gemela",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 145,
+    "name": "Zeff",
+    "file": "145-zeff.webp",
+    "nameEs": "Zeff",
+    "hint": "pierna",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 146,
+    "name": "Genzo",
+    "file": "146-genzo.webp",
+    "nameEs": "Genzo",
+    "hint": "alguacil",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 147,
+    "name": "Dellinger",
+    "file": "147-dellinger.webp",
+    "nameEs": "Dellinger",
+    "hint": "patines",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 148,
+    "name": "Senor Pink",
+    "file": "148-senor_pink.webp",
+    "nameEs": "Senor Pink",
+    "hint": "sentimental",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 149,
+    "name": "Riku Doldo III",
+    "file": "149-riku_doldo_iii.webp",
+    "nameEs": "Riku Doldo III",
+    "hint": "rey",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 150,
+    "name": "Vinsmoke Ichiji",
+    "file": "150-vinsmoke_ichiji.webp",
+    "nameEs": "Vinsmoke Ichiji",
+    "hint": "arrogante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 151,
+    "name": "Donquixote Rosinante",
+    "file": "151-donquixote_rosinante.webp",
+    "nameEs": "Donquixote Rosinante",
+    "hint": "torpe",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 152,
+    "name": "Bon Clay",
+    "file": "152-bon_clay.webp",
+    "nameEs": "Bon Clay",
+    "hint": "leal",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 153,
+    "name": "Sentomaru",
+    "file": "153-sentomaru.webp",
+    "nameEs": "Sentomaru",
+    "hint": "hacha",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 154,
+    "name": "Nefertari Cobra",
+    "file": "154-nefertari_cobra.webp",
+    "nameEs": "Nefertari Cobra",
+    "hint": "padre",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 155,
+    "name": "Ryuma",
+    "file": "155-ryuma.webp",
+    "nameEs": "Ryuma",
+    "hint": "zombi",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 156,
+    "name": "Pekoms",
+    "file": "156-pekoms.webp",
+    "nameEs": "Pekoms",
+    "hint": "bigotes",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 157,
+    "name": "Vinsmoke Niji",
+    "file": "157-vinsmoke_niji.webp",
+    "nameEs": "Vinsmoke Niji",
+    "hint": "hermano",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 158,
+    "name": "Vinsmoke Yonji",
+    "file": "158-vinsmoke_yonji.webp",
+    "nameEs": "Vinsmoke Yonji",
+    "hint": "torpe",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 159,
+    "name": "Raizo",
+    "file": "159-raizo.webp",
+    "nameEs": "Raizo",
+    "hint": "ninja",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 160,
+    "name": "Kikunojo",
+    "file": "160-kikunojo.webp",
+    "nameEs": "Kikunojo",
+    "hint": "geisha",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 161,
+    "name": "Ashura Doji",
+    "file": "161-ashura_doji.webp",
+    "nameEs": "Ashura Doji",
+    "hint": "solitario",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 162,
+    "name": "Kozuki Toki",
+    "file": "162-kozuki_toki.webp",
+    "nameEs": "Kozuki Toki",
+    "hint": "madre",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 163,
+    "name": "Shimotsuki Yasuie",
+    "file": "163-shimotsuki_yasuie.webp",
+    "nameEs": "Shimotsuki Yasuie",
+    "hint": "sacrificio",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 164,
+    "name": "Izo",
+    "file": "164-izo.webp",
+    "nameEs": "Izo",
+    "hint": "okama",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 165,
+    "name": "Fukurou",
+    "file": "165-fukurou.webp",
+    "nameEs": "Fukurou",
+    "hint": "carcelero",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 166,
+    "name": "Kumadori",
+    "file": "166-kumadori.webp",
+    "nameEs": "Kumadori",
+    "hint": "vegetariano",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 167,
+    "name": "Fukaboshi",
+    "file": "167-fukaboshi.webp",
+    "nameEs": "Fukaboshi",
+    "hint": "príncipe",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 501,
+    "name": "Hattori",
+    "file": "501-hattori.webp",
+    "nameEs": "Hattori",
+    "hint": "paloma",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 502,
+    "name": "Salome",
+    "file": "502-salome.webp",
+    "nameEs": "Salome",
+    "hint": "serpiente",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 503,
+    "name": "Merry",
+    "file": "503-merry.webp",
+    "nameEs": "Merry",
+    "hint": "mayordomo",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 504,
+    "name": "Kalgara",
+    "file": "504-kalgara.webp",
+    "nameEs": "Kalgara",
+    "hint": "campana",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 505,
+    "name": "Ginny",
+    "file": "505-ginny.webp",
+    "nameEs": "Ginny",
+    "hint": "esposa",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 168,
+    "name": "Stussy",
+    "file": "168-stussy.webp",
+    "nameEs": "Stussy",
+    "hint": "espía",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 169,
+    "name": "York",
+    "file": "169-york.webp",
+    "nameEs": "York",
+    "hint": "traidor",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 170,
+    "name": "Shaka",
+    "file": "170-shaka.webp",
+    "nameEs": "Shaka",
+    "hint": "satélite",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 171,
+    "name": "Bellemere",
+    "file": "171-bellemere.webp",
+    "nameEs": "Bellemere",
+    "hint": "madre",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 172,
+    "name": "Nojiko",
+    "file": "172-nojiko.webp",
+    "nameEs": "Nojiko",
+    "hint": "tatuaje",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 173,
+    "name": "Kaya",
+    "file": "173-kaya.webp",
+    "nameEs": "Kaya",
+    "hint": "heredera",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 174,
+    "name": "Alvida",
+    "file": "174-alvida.webp",
+    "nameEs": "Alvida",
+    "hint": "vanidosa",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 175,
+    "name": "Morgan",
+    "file": "175-morgan.webp",
+    "nameEs": "Morgan",
+    "hint": "mandíbula",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 176,
+    "name": "Gin",
+    "file": "176-gin.webp",
+    "nameEs": "Gin",
+    "hint": "gancho",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 177,
+    "name": "Igaram",
+    "file": "177-igaram.webp",
+    "nameEs": "Igaram",
+    "hint": "leal",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 178,
+    "name": "Satori",
+    "file": "178-satori.webp",
+    "nameEs": "Satori",
+    "hint": "guardián",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 179,
+    "name": "Shura",
+    "file": "179-shura.webp",
+    "nameEs": "Shura",
+    "hint": "sacerdote",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 180,
+    "name": "Mohji",
+    "file": "180-mohji.webp",
+    "nameEs": "Mohji",
+    "hint": "domador",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 181,
+    "name": "Cabaji",
+    "file": "181-cabaji.webp",
+    "nameEs": "Cabaji",
+    "hint": "acróbata",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 182,
+    "name": "Domino",
+    "file": "182-domino.webp",
+    "nameEs": "Domino",
+    "hint": "espía",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 183,
+    "name": "Disco",
+    "file": "183-disco.webp",
+    "nameEs": "Disco",
+    "hint": "traje",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 184,
+    "name": "Nyon",
+    "file": "184-nyon.webp",
+    "nameEs": "Nyon",
+    "hint": "anciana",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 185,
+    "name": "Charlotte Mont-d'Or",
+    "file": "185-charlotte_mont_d_or.webp",
+    "nameEs": "Charlotte Mont-d'Or",
+    "hint": "reportero",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 186,
+    "name": "Doc Q",
+    "file": "186-doc_q.webp",
+    "nameEs": "Doc Q",
+    "hint": "pálido",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 187,
+    "name": "Stronger",
+    "file": "187-stronger.webp",
+    "nameEs": "Stronger",
+    "hint": "mascota",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 188,
+    "name": "Oz",
+    "file": "188-oz.webp",
+    "nameEs": "Oz",
+    "hint": "titán",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 189,
+    "name": "Crocus",
+    "file": "189-crocus.webp",
+    "nameEs": "Crocus",
+    "hint": "ballena",
+    "arc": 6,
+    "hintArc": 6
+  },
+  {
+    "rank": 190,
+    "name": "Tsuru",
+    "file": "190-tsuru.webp",
+    "nameEs": "Tsuru",
+    "hint": "veterana",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 191,
+    "name": "Miss Goldenweek",
+    "file": "191-miss_goldenweek.webp",
+    "nameEs": "Miss Goldenweek",
+    "hint": "niña",
+    "arc": 8,
+    "hintArc": 8
+  },
+  {
+    "rank": 192,
+    "name": "Mr. 4",
+    "file": "192-mr_4.webp",
+    "nameEs": "Mr. 4",
+    "hint": "murciélago",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 193,
+    "name": "Miss Merry Christmas",
+    "file": "193-miss_merry_christmas.webp",
+    "nameEs": "Miss Merry Christmas",
+    "hint": "anciana",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 194,
+    "name": "Miss Valentine",
+    "file": "194-miss_valentine.webp",
+    "nameEs": "Miss Valentine",
+    "hint": "coqueta",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 195,
+    "name": "Mr. 5",
+    "file": "195-mr_5.webp",
+    "nameEs": "Mr. 5",
+    "hint": "agente",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 196,
+    "name": "Aisa",
+    "file": "196-aisa.webp",
+    "nameEs": "Aisa",
+    "hint": "niña",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 197,
+    "name": "Conis",
+    "file": "197-conis.webp",
+    "nameEs": "Conis",
+    "hint": "nube",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 198,
+    "name": "Chiffon",
+    "file": "198-chiffon.webp",
+    "nameEs": "Chiffon",
+    "hint": "pastelera",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 199,
+    "name": "Charlotte Opera",
+    "file": "199-charlotte_opera.webp",
+    "nameEs": "Charlotte Opera",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 200,
+    "name": "Charlotte Amande",
+    "file": "200-charlotte_amande.webp",
+    "nameEs": "Charlotte Amande",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 201,
+    "name": "Jewelry Bonney",
+    "file": "201-jewelry_bonney.webp",
+    "nameEs": "Jewelry Bonney",
+    "hint": "hambre",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 202,
+    "name": "Capone Bege",
+    "file": "202-capone_bege.webp",
+    "nameEs": "Capone Bege",
+    "hint": "padre",
+    "arc": 18,
+    "hintArc": 28
+  },
+  {
+    "rank": 203,
+    "name": "Benn Beckman",
+    "file": "203-benn_beckman.webp",
+    "nameEs": "Benn Beckman",
+    "hint": "calmado",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 204,
+    "name": "Vista",
+    "file": "204-vista.webp",
+    "nameEs": "Vista",
+    "hint": "bigote",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 205,
+    "name": "Jozu",
+    "file": "205-jozu.webp",
+    "nameEs": "Jozu",
+    "hint": "silencioso",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 206,
+    "name": "Yasopp",
+    "file": "206-yasopp.webp",
+    "nameEs": "Yasopp",
+    "hint": "padre",
+    "arc": 0,
+    "hintArc": 2
+  },
+  {
+    "rank": 207,
+    "name": "Lucky Roux",
+    "file": "207-lucky_roux.webp",
+    "nameEs": "Lucky Roux",
+    "hint": "gordo",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 208,
+    "name": "Jean Bart",
+    "file": "208-jean_bart.webp",
+    "nameEs": "Jean Bart",
+    "hint": "esclavo",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 209,
+    "name": "Shachi",
+    "file": "209-shachi.webp",
+    "nameEs": "Shachi",
+    "hint": "submarino",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 210,
+    "name": "Penguin",
+    "file": "210-penguin.webp",
+    "nameEs": "Penguin",
+    "hint": "gorro",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 211,
+    "name": "Camie",
+    "file": "211-camie.webp",
+    "nameEs": "Camie",
+    "hint": "acuario",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 212,
+    "name": "Komurasaki",
+    "file": "212-komurasaki.webp",
+    "nameEs": "Komurasaki",
+    "hint": "cicatriz",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 213,
+    "name": "Shinobu",
+    "file": "213-shinobu.webp",
+    "nameEs": "Shinobu",
+    "hint": "espía",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 214,
+    "name": "Curly Dadan",
+    "file": "214-curly_dadan.webp",
+    "nameEs": "Curly Dadan",
+    "hint": "bandidos",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 215,
+    "name": "Nico Olvia",
+    "file": "215-nico_olvia.webp",
+    "nameEs": "Nico Olvia",
+    "hint": "arqueóloga",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 216,
+    "name": "Jaguar D. Saul",
+    "file": "216-jaguar_d_saul.webp",
+    "nameEs": "Jaguar D. Saul",
+    "hint": "risa",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 217,
+    "name": "Tom",
+    "file": "217-tom.webp",
+    "nameEs": "Tom",
+    "hint": "carpintero",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 218,
+    "name": "Kokoro",
+    "file": "218-kokoro.webp",
+    "nameEs": "Kokoro",
+    "hint": "mecánica",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 219,
+    "name": "Chimney",
+    "file": "219-chimney.webp",
+    "nameEs": "Chimney",
+    "hint": "nieta",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 220,
+    "name": "Gonbe",
+    "file": "220-gonbe.webp",
+    "nameEs": "Gonbe",
+    "hint": "pesca",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 221,
+    "name": "Makino",
+    "file": "221-makino.webp",
+    "nameEs": "Makino",
+    "hint": "bar",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 222,
+    "name": "Woop Slap",
+    "file": "222-woop_slap.webp",
+    "nameEs": "Woop Slap",
+    "hint": "aldea",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 223,
+    "name": "Higuma",
+    "file": "223-higuma.webp",
+    "nameEs": "Higuma",
+    "hint": "montaña",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 224,
+    "name": "Jango",
+    "file": "224-jango.webp",
+    "nameEs": "Jango",
+    "hint": "extraño",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 225,
+    "name": "Buchi",
+    "file": "225-buchi.webp",
+    "nameEs": "Buchi",
+    "hint": "gordo",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 226,
+    "name": "Sham",
+    "file": "226-sham.webp",
+    "nameEs": "Sham",
+    "hint": "sirviente",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 227,
+    "name": "Mr. 9",
+    "file": "227-mr_9.webp",
+    "nameEs": "Mr. 9",
+    "hint": "torpe",
+    "arc": 6,
+    "hintArc": 6
+  },
+  {
+    "rank": 228,
+    "name": "Karoo",
+    "file": "228-karoo.webp",
+    "nameEs": "Karoo",
+    "hint": "amarillo",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 229,
+    "name": "Toto",
+    "file": "229-toto.webp",
+    "nameEs": "Toto",
+    "hint": "aldeano",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 230,
+    "name": "Dorry",
+    "file": "230-dorry.webp",
+    "nameEs": "Dorry",
+    "hint": "duelo",
+    "arc": 8,
+    "hintArc": 8
+  },
+  {
+    "rank": 231,
+    "name": "Broggy",
+    "file": "231-broggy.webp",
+    "nameEs": "Broggy",
+    "hint": "cerveza",
+    "arc": 8,
+    "hintArc": 8
+  },
+  {
+    "rank": 232,
+    "name": "Montblanc Cricket",
+    "file": "232-montblanc_cricket.webp",
+    "nameEs": "Montblanc Cricket",
+    "hint": "oro",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 233,
+    "name": "Montblanc Noland",
+    "file": "233-montblanc_noland.webp",
+    "nameEs": "Montblanc Noland",
+    "hint": "explorador",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 234,
+    "name": "Pagaya",
+    "file": "234-pagaya.webp",
+    "nameEs": "Pagaya",
+    "hint": "inventor",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 235,
+    "name": "Ohm",
+    "file": "235-ohm.webp",
+    "nameEs": "Ohm",
+    "hint": "sacerdote",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 236,
+    "name": "Gedatsu",
+    "file": "236-gedatsu.webp",
+    "nameEs": "Gedatsu",
+    "hint": "torpe",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 237,
+    "name": "Genbo",
+    "file": "237-genbo.webp",
+    "nameEs": "Genbo",
+    "hint": "carcelero",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 238,
+    "name": "Mozu",
+    "file": "238-mozu.webp",
+    "nameEs": "Mozu",
+    "hint": "guardiana",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 239,
+    "name": "Kiwi",
+    "file": "239-kiwi.webp",
+    "nameEs": "Kiwi",
+    "hint": "lentes",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 240,
+    "name": "Zambai",
+    "file": "240-zambai.webp",
+    "nameEs": "Zambai",
+    "hint": "guerrero",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 241,
+    "name": "Peepley Lulu",
+    "file": "241-peepley_lulu.webp",
+    "nameEs": "Peepley Lulu",
+    "hint": "botánico",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 242,
+    "name": "Tilestone",
+    "file": "242-tilestone.webp",
+    "nameEs": "Tilestone",
+    "hint": "fuerte",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 243,
+    "name": "Lola",
+    "file": "243-lola.webp",
+    "nameEs": "Lola",
+    "hint": "novia",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 244,
+    "name": "Hildon",
+    "file": "244-hildon.webp",
+    "nameEs": "Hildon",
+    "hint": "noble",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 245,
+    "name": "Charlos",
+    "file": "245-charlos.webp",
+    "nameEs": "Charlos",
+    "hint": "consentido",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 246,
+    "name": "Mjosgard",
+    "file": "246-mjosgard.webp",
+    "nameEs": "Mjosgard",
+    "hint": "redención",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 247,
+    "name": "Squardo",
+    "file": "247-squardo.webp",
+    "nameEs": "Squardo",
+    "hint": "traición",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 248,
+    "name": "Chew",
+    "file": "248-chew.webp",
+    "nameEs": "Chew",
+    "hint": "tripulante",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 249,
+    "name": "Clover",
+    "file": "249-clover.webp",
+    "nameEs": "Clover",
+    "hint": "erudito",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 250,
+    "name": "Wadatsumi",
+    "file": "250-wadatsumi.webp",
+    "nameEs": "Wadatsumi",
+    "hint": "sirviente",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 251,
+    "name": "Megalo",
+    "file": "251-megalo.webp",
+    "nameEs": "Megalo",
+    "hint": "mascota",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 252,
+    "name": "Tamago",
+    "file": "252-tamago.webp",
+    "nameEs": "Tamago",
+    "hint": "mayordomo",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 253,
+    "name": "Pound",
+    "file": "253-pound.webp",
+    "nameEs": "Pound",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 254,
+    "name": "Brownbeard",
+    "file": "254-brownbeard.webp",
+    "nameEs": "Brownbeard",
+    "hint": "centauro",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 255,
+    "name": "Vasco Shot",
+    "file": "255-vasco_shot.webp",
+    "nameEs": "Vasco Shot",
+    "hint": "alcohol",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 256,
+    "name": "Pedro",
+    "file": "256-pedro.webp",
+    "nameEs": "Pedro",
+    "hint": "explosión",
+    "arc": 27,
+    "hintArc": 28
+  },
+  {
+    "rank": 257,
+    "name": "Wanda",
+    "file": "257-wanda.webp",
+    "nameEs": "Wanda",
+    "hint": "enfermera",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 258,
+    "name": "Onigumo",
+    "file": "258-onigumo.webp",
+    "nameEs": "Onigumo",
+    "hint": "tatuaje",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 259,
+    "name": "Babanuki",
+    "file": "259-babanuki.webp",
+    "nameEs": "Babanuki",
+    "hint": "guardia",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 260,
+    "name": "Chinjao",
+    "file": "260-chinjao.webp",
+    "nameEs": "Chinjao",
+    "hint": "abuelo",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 261,
+    "name": "Sai",
+    "file": "261-sai.webp",
+    "nameEs": "Sai",
+    "hint": "nieto",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 262,
+    "name": "Boo",
+    "file": "262-boo.webp",
+    "nameEs": "Boo",
+    "hint": "gigante",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 263,
+    "name": "Ideo",
+    "file": "263-ideo.webp",
+    "nameEs": "Ideo",
+    "hint": "guerrero",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 264,
+    "name": "Suleiman",
+    "file": "264-suleiman.webp",
+    "nameEs": "Suleiman",
+    "hint": "gigante",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 265,
+    "name": "Hajrudin",
+    "file": "265-hajrudin.webp",
+    "nameEs": "Hajrudin",
+    "hint": "amable",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 266,
+    "name": "Elizabello II",
+    "file": "266-elizabello_ii.webp",
+    "nameEs": "Elizabello II",
+    "hint": "rey",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 267,
+    "name": "Leo",
+    "file": "267-leo.webp",
+    "nameEs": "Leo",
+    "hint": "sastre",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 268,
+    "name": "Wicca",
+    "file": "268-wicca.webp",
+    "nameEs": "Wicca",
+    "hint": "tímida",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 269,
+    "name": "Gancho",
+    "file": "269-gancho.webp",
+    "nameEs": "Gancho",
+    "hint": "enano",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 270,
+    "name": "Kabu",
+    "file": "270-kabu.webp",
+    "nameEs": "Kabu",
+    "hint": "diminuto",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 271,
+    "name": "Gladius",
+    "file": "271-gladius.webp",
+    "nameEs": "Gladius",
+    "hint": "oficial",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 272,
+    "name": "Machvise",
+    "file": "272-machvise.webp",
+    "nameEs": "Machvise",
+    "hint": "brutal",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 273,
+    "name": "Lao G",
+    "file": "273-lao_g.webp",
+    "nameEs": "Lao G",
+    "hint": "artes marciales",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 274,
+    "name": "Buffalo",
+    "file": "274-buffalo.webp",
+    "nameEs": "Buffalo",
+    "hint": "calvo",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 275,
+    "name": "Charlotte Flampe",
+    "file": "275-charlotte_flampe.webp",
+    "nameEs": "Charlotte Flampe",
+    "hint": "chisme",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 276,
+    "name": "Charlotte Praline",
+    "file": "276-charlotte_praline.webp",
+    "nameEs": "Charlotte Praline",
+    "hint": "hermana",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 277,
+    "name": "Charlotte Cadenza",
+    "file": "277-charlotte_cadenza.webp",
+    "nameEs": "Charlotte Cadenza",
+    "hint": "comandante",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 278,
+    "name": "Charlotte Citron",
+    "file": "278-charlotte_citron.webp",
+    "nameEs": "Charlotte Citron",
+    "hint": "capitán",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 279,
+    "name": "Charlotte Anana",
+    "file": "279-charlotte_anana.webp",
+    "nameEs": "Charlotte Anana",
+    "hint": "guardiana",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 280,
+    "name": "Pythagoras",
+    "file": "280-pythagoras.webp",
+    "nameEs": "Pythagoras",
+    "hint": "satélite",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 281,
+    "name": "Atlas",
+    "file": "281-atlas.webp",
+    "nameEs": "Atlas",
+    "hint": "satélite",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 282,
+    "name": "Lilith",
+    "file": "282-lilith.webp",
+    "nameEs": "Lilith",
+    "hint": "satélite",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 283,
+    "name": "Edison",
+    "file": "283-edison.webp",
+    "nameEs": "Edison",
+    "hint": "satélite",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 284,
+    "name": "Saint Jaygarcia Saturn",
+    "file": "284-saint_jaygarcia_saturn.webp",
+    "nameEs": "Santo Jaygarcia Saturn",
+    "hint": "consejo",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 285,
+    "name": "Im",
+    "file": "285-im.webp",
+    "nameEs": "Im",
+    "hint": "misterioso",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 286,
+    "name": "Karasu",
+    "file": "286-karasu.webp",
+    "nameEs": "Karasu",
+    "hint": "revolucionario",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 287,
+    "name": "Morley",
+    "file": "287-morley.webp",
+    "nameEs": "Morley",
+    "hint": "revolucionario",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 288,
+    "name": "Belo Betty",
+    "file": "288-belo_betty.webp",
+    "nameEs": "Belo Betty",
+    "hint": "periodista",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 289,
+    "name": "Shiki",
+    "file": "289-shiki.webp",
+    "nameEs": "Shiki",
+    "hint": "pirata",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 290,
+    "name": "Portgas D. Rouge",
+    "file": "290-portgas_d_rouge.webp",
+    "nameEs": "Portgas D. Rouge",
+    "hint": "amor",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 291,
+    "name": "Loki",
+    "file": "291-loki.webp",
+    "nameEs": "Loki",
+    "hint": "príncipe",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 292,
+    "name": "Harald",
+    "file": "292-harald.webp",
+    "nameEs": "Harald",
+    "hint": "monarca",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 293,
+    "name": "Rockstar",
+    "file": "293-rockstar.webp",
+    "nameEs": "Rockstar",
+    "hint": "aprendiz",
+    "arc": 11,
+    "hintArc": 16
+  },
+  {
+    "rank": 294,
+    "name": "Smiley",
+    "file": "294-smiley.webp",
+    "nameEs": "Smiley",
+    "hint": "extraño",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 295,
+    "name": "Urouge",
+    "file": "295-urouge.webp",
+    "nameEs": "Urouge",
+    "hint": "monje",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 296,
+    "name": "Wire",
+    "file": "296-wire.webp",
+    "nameEs": "Wire",
+    "hint": "tripulante",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 297,
+    "name": "Heat",
+    "file": "297-heat.webp",
+    "nameEs": "Heat",
+    "hint": "pirata",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 298,
+    "name": "Kuroobi",
+    "file": "298-kuroobi.webp",
+    "nameEs": "Kuroobi",
+    "hint": "cinturón",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 299,
+    "name": "Bobbin",
+    "file": "299-bobbin.webp",
+    "nameEs": "Bobbin",
+    "hint": "pandilla",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 300,
+    "name": "Charlotte Mascarpone",
+    "file": "300-charlotte_mascarpone.webp",
+    "nameEs": "Charlotte Mascarpone",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 301,
+    "name": "Marcus Mars",
+    "file": "301-marcus_mars.webp",
+    "nameEs": "Marcus Mars",
+    "hint": "gorosei",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 302,
+    "name": "Topman Warcury",
+    "file": "302-topman_warcury.webp",
+    "nameEs": "Topman Warcury",
+    "hint": "misterioso",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 303,
+    "name": "Ethanbaron V. Nusjuro",
+    "file": "303-ethanbaron_v_nusjuro.webp",
+    "nameEs": "Ethanbaron V. Nusjuro",
+    "hint": "oficial",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 304,
+    "name": "Shepherd Ju Peter",
+    "file": "304-shepherd_ju_peter.webp",
+    "nameEs": "Pastor Ju Peter",
+    "hint": "clero",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 305,
+    "name": "Aramaki",
+    "file": "305-aramaki.webp",
+    "nameEs": "Aramaki",
+    "hint": "lento",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 306,
+    "name": "Zeus",
+    "file": "306-zeus.webp",
+    "nameEs": "Zeus",
+    "hint": "mascota",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 307,
+    "name": "Prometheus",
+    "file": "307-prometheus.webp",
+    "nameEs": "Prometheus",
+    "hint": "mascota",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 308,
+    "name": "Napoleon",
+    "file": "308-napoleon.webp",
+    "nameEs": "Napoleon",
+    "hint": "traje",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 309,
+    "name": "Fisher Tiger",
+    "file": "309-fisher_tiger.webp",
+    "nameEs": "Fisher Tiger",
+    "hint": "esclavitud",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 310,
+    "name": "Rocks D. Xebec",
+    "file": "310-rocks_d_xebec.webp",
+    "nameEs": "Rocks D. Xebec",
+    "hint": "temible",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 311,
+    "name": "Kong",
+    "file": "311-kong.webp",
+    "nameEs": "Kong",
+    "hint": "veterano",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 312,
+    "name": "Hina",
+    "file": "312-hina.webp",
+    "nameEs": "Hina",
+    "hint": "capitana",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 313,
+    "name": "Kureha",
+    "file": "313-kureha.webp",
+    "nameEs": "Kureha",
+    "hint": "doctora",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 314,
+    "name": "Hiriluk",
+    "file": "314-hiriluk.webp",
+    "nameEs": "Hiriluk",
+    "hint": "charlatán",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 315,
+    "name": "Fukurokuju",
+    "file": "315-fukurokuju.webp",
+    "nameEs": "Fukurokuju",
+    "hint": "anciano",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 316,
+    "name": "Shimotsuki Kouzaburou",
+    "file": "316-shimotsuki_kouzaburou.webp",
+    "nameEs": "Shimotsuki Kouzaburou",
+    "hint": "herrero",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 317,
+    "name": "Kouzuki Sukiyaki",
+    "file": "317-kouzuki_sukiyaki.webp",
+    "nameEs": "Kouzuki Sukiyaki",
+    "hint": "gobernante",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 318,
+    "name": "Scopper Gaban",
+    "file": "318-scopper_gaban.webp",
+    "nameEs": "Scopper Gaban",
+    "hint": "veterano",
+    "arc": 1,
+    "hintArc": 30
+  },
+  {
+    "rank": 319,
+    "name": "Whitey Bay",
+    "file": "319-whitey_bay.webp",
+    "nameEs": "Whitey Bay",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 320,
+    "name": "Ain",
+    "file": "320-ain.webp",
+    "nameEs": "Ain",
+    "hint": "fría",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 321,
+    "name": "Koza",
+    "file": "321-koza.webp",
+    "nameEs": "Koza",
+    "hint": "rebelde",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 322,
+    "name": "Yosaku",
+    "file": "322-yosaku.webp",
+    "nameEs": "Yosaku",
+    "hint": "espadachín",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 323,
+    "name": "Johnny",
+    "file": "323-johnny.webp",
+    "nameEs": "Johnny",
+    "hint": "lentes",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 324,
+    "name": "Namur",
+    "file": "324-namur.webp",
+    "nameEs": "Namur",
+    "hint": "tripulante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 325,
+    "name": "Haruta",
+    "file": "325-haruta.webp",
+    "nameEs": "Haruta",
+    "hint": "andrógino",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 326,
+    "name": "Curiel",
+    "file": "326-curiel.webp",
+    "nameEs": "Curiel",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 327,
+    "name": "Blenheim",
+    "file": "327-blenheim.webp",
+    "nameEs": "Blenheim",
+    "hint": "gigante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 328,
+    "name": "Speed Jiru",
+    "file": "328-speed_jiru.webp",
+    "nameEs": "Speed Jiru",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 329,
+    "name": "Fossa",
+    "file": "329-fossa.webp",
+    "nameEs": "Fossa",
+    "hint": "guantes",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 330,
+    "name": "Blamenco",
+    "file": "330-blamenco.webp",
+    "nameEs": "Blamenco",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 331,
+    "name": "Rakuyo",
+    "file": "331-rakuyo.webp",
+    "nameEs": "Rakuyo",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 332,
+    "name": "Kingdew",
+    "file": "332-kingdew.webp",
+    "nameEs": "Kingdew",
+    "hint": "comandante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 333,
+    "name": "Atmos",
+    "file": "333-atmos.webp",
+    "nameEs": "Atmos",
+    "hint": "misterioso",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 506,
+    "name": "Wanze",
+    "file": "506-wanze.webp",
+    "nameEs": "Wanze",
+    "hint": "fideos",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 507,
+    "name": "Holed'em",
+    "file": "507-holed_em.webp",
+    "nameEs": "Holdem",
+    "hint": "león",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 508,
+    "name": "Speed",
+    "file": "508-speed.webp",
+    "nameEs": "Speed",
+    "hint": "caballo",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 509,
+    "name": "Oimo",
+    "file": "509-oimo.webp",
+    "nameEs": "Oimo",
+    "hint": "gigante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 510,
+    "name": "Kashii",
+    "file": "510-kashii.webp",
+    "nameEs": "Kashii",
+    "hint": "gigante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 511,
+    "name": "Nero",
+    "file": "511-nero.webp",
+    "nameEs": "Nero",
+    "hint": "comadreja",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 512,
+    "name": "Surume",
+    "file": "512-surume.webp",
+    "nameEs": "Surume",
+    "hint": "kraken",
+    "arc": 23,
+    "hintArc": 23
+  },
+  {
+    "rank": 513,
+    "name": "Pandaman",
+    "file": "513-pandaman.webp",
+    "nameEs": "Pandaman",
+    "hint": "panda",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 514,
+    "name": "Chouchou",
+    "file": "514-chouchou.webp",
+    "nameEs": "Chouchou",
+    "hint": "perro",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 515,
+    "name": "Ninjin",
+    "file": "515-ninjin.webp",
+    "nameEs": "Ninjin",
+    "hint": "zanahoria",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 516,
+    "name": "Piiman",
+    "file": "516-piiman.webp",
+    "nameEs": "Piiman",
+    "hint": "morrón",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 517,
+    "name": "Tamanegi",
+    "file": "517-tamanegi.webp",
+    "nameEs": "Tamanegi",
+    "hint": "cebolla",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 518,
+    "name": "Matsuge",
+    "file": "518-matsuge.webp",
+    "nameEs": "Matsuge",
+    "hint": "camello",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 519,
+    "name": "Raki",
+    "file": "519-raki.webp",
+    "nameEs": "Raki",
+    "hint": "guerrera",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 520,
+    "name": "Yama",
+    "file": "520-yama.webp",
+    "nameEs": "Yama",
+    "hint": "sacerdote",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 521,
+    "name": "Holy",
+    "file": "521-holy.webp",
+    "nameEs": "Holy",
+    "hint": "perro",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 522,
+    "name": "Dogra",
+    "file": "522-dogra.webp",
+    "nameEs": "Dogra",
+    "hint": "bandido",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 523,
+    "name": "Magra",
+    "file": "523-magra.webp",
+    "nameEs": "Magra",
+    "hint": "bandido",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 524,
+    "name": "Porchemy",
+    "file": "524-porchemy.webp",
+    "nameEs": "Porchemy",
+    "hint": "matón",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 525,
+    "name": "Bluejam",
+    "file": "525-bluejam.webp",
+    "nameEs": "Bluejam",
+    "hint": "pirata",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 526,
+    "name": "Haredas",
+    "file": "526-haredas.webp",
+    "nameEs": "Haredas",
+    "hint": "clima",
+    "arc": 22,
+    "hintArc": 22
+  },
+  {
+    "rank": 527,
+    "name": "Mocha",
+    "file": "527-mocha.webp",
+    "nameEs": "Mocha",
+    "hint": "niña",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 528,
+    "name": "Kumashi",
+    "file": "528-kumashi.webp",
+    "nameEs": "Kumashi",
+    "hint": "peluche",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 529,
+    "name": "Cosette",
+    "file": "529-cosette.webp",
+    "nameEs": "Cosette",
+    "hint": "cocinera",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 334,
+    "name": "Momonga",
+    "file": "334-momonga.webp",
+    "nameEs": "Momonga",
+    "hint": "contraalmirante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 335,
+    "name": "Doberman",
+    "file": "335-doberman.webp",
+    "nameEs": "Doberman",
+    "hint": "capitán marine",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 336,
+    "name": "Manboshi",
+    "file": "336-manboshi.webp",
+    "nameEs": "Manboshi",
+    "hint": "guardia",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 337,
+    "name": "Ryuboshi",
+    "file": "337-ryuboshi.webp",
+    "nameEs": "Ryuboshi",
+    "hint": "príncipe",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 338,
+    "name": "Hyouzou",
+    "file": "338-hyouzou.webp",
+    "nameEs": "Hyouzou",
+    "hint": "ebrio",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 339,
+    "name": "Ikaros Much",
+    "file": "339-ikaros_much.webp",
+    "nameEs": "Ikaros Much",
+    "hint": "arpón",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 340,
+    "name": "Zeo",
+    "file": "340-zeo.webp",
+    "nameEs": "Zeo",
+    "hint": "mecánico",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 341,
+    "name": "Daruma",
+    "file": "341-daruma.webp",
+    "nameEs": "Daruma",
+    "hint": "monstruoso",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 342,
+    "name": "Dosun",
+    "file": "342-dosun.webp",
+    "nameEs": "Dosun",
+    "hint": "brutal",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 343,
+    "name": "Pappag",
+    "file": "343-pappag.webp",
+    "nameEs": "Pappag",
+    "hint": "diseñador",
+    "arc": 10,
+    "hintArc": 18
+  },
+  {
+    "rank": 344,
+    "name": "Hack",
+    "file": "344-hack.webp",
+    "nameEs": "Hack",
+    "hint": "guardaespaldas",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 345,
+    "name": "Blue Gilly",
+    "file": "345-blue_gilly.webp",
+    "nameEs": "Blue Gilly",
+    "hint": "pandilla",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 346,
+    "name": "Scarlett",
+    "file": "346-scarlett.webp",
+    "nameEs": "Scarlett",
+    "hint": "bruja",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 347,
+    "name": "Sarquiss",
+    "file": "347-sarquiss.webp",
+    "nameEs": "Sarquiss",
+    "hint": "tripulante",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 348,
+    "name": "Giolla",
+    "file": "348-giolla.webp",
+    "nameEs": "Giolla",
+    "hint": "agente",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 349,
+    "name": "Maynard",
+    "file": "349-maynard.webp",
+    "nameEs": "Maynard",
+    "hint": "teniente",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 350,
+    "name": "Bastille",
+    "file": "350-bastille.webp",
+    "nameEs": "Bastille",
+    "hint": "capitán marine",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 351,
+    "name": "John Giant",
+    "file": "351-john_giant.webp",
+    "nameEs": "John Giant",
+    "hint": "gigante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 352,
+    "name": "Zunesha",
+    "file": "352-zunesha.webp",
+    "nameEs": "Zunesha",
+    "hint": "isla",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 353,
+    "name": "Shyarly",
+    "file": "353-shyarly.webp",
+    "nameEs": "Shyarly",
+    "hint": "hermana",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 354,
+    "name": "Aphelandra",
+    "file": "354-aphelandra.webp",
+    "nameEs": "Aphelandra",
+    "hint": "vicealmirante",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 355,
+    "name": "Saldeath",
+    "file": "355-saldeath.webp",
+    "nameEs": "Saldeath",
+    "hint": "carcelero",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 356,
+    "name": "Spandine",
+    "file": "356-spandine.webp",
+    "nameEs": "Spandine",
+    "hint": "comandante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 357,
+    "name": "Helmeppo",
+    "file": "357-helmeppo.webp",
+    "nameEs": "Helmeppo",
+    "hint": "mimado",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 358,
+    "name": "Fullbody",
+    "file": "358-fullbody.webp",
+    "nameEs": "Fullbody",
+    "hint": "presumido",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 359,
+    "name": "Patty",
+    "file": "359-patty.webp",
+    "nameEs": "Patty",
+    "hint": "restaurante",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 360,
+    "name": "Carne",
+    "file": "360-carne.webp",
+    "nameEs": "Carne",
+    "hint": "musculoso",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 361,
+    "name": "Pearl",
+    "file": "361-pearl.webp",
+    "nameEs": "Pearl",
+    "hint": "defensivo",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 362,
+    "name": "Richie",
+    "file": "362-richie.webp",
+    "nameEs": "Richie",
+    "hint": "melena",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 363,
+    "name": "Boodle",
+    "file": "363-boodle.webp",
+    "nameEs": "Boodle",
+    "hint": "bigote",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 364,
+    "name": "Miss Monday",
+    "file": "364-miss_monday.webp",
+    "nameEs": "Miss Monday",
+    "hint": "musculosa",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 365,
+    "name": "Kamakiri",
+    "file": "365-kamakiri.webp",
+    "nameEs": "Kamakiri",
+    "hint": "guerrero",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 366,
+    "name": "Braham",
+    "file": "366-braham.webp",
+    "nameEs": "Braham",
+    "hint": "guerrero",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 367,
+    "name": "Hotori and Kotori",
+    "file": "367-hotori_and_kotori.webp",
+    "nameEs": "Hotori y Kotori",
+    "hint": "gemelos",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 368,
+    "name": "Pierre",
+    "file": "368-pierre.webp",
+    "nameEs": "Pierre",
+    "hint": "montura",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 369,
+    "name": "Terracotta",
+    "file": "369-terracotta.webp",
+    "nameEs": "Terracotta",
+    "hint": "pirata",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 370,
+    "name": "Masira",
+    "file": "370-masira.webp",
+    "nameEs": "Masira",
+    "hint": "constructor",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 371,
+    "name": "Shoujou",
+    "file": "371-shoujou.webp",
+    "nameEs": "Shoujou",
+    "hint": "aliado",
+    "arc": 11,
+    "hintArc": 11
+  },
+  {
+    "rank": 372,
+    "name": "Dalton",
+    "file": "372-dalton.webp",
+    "nameEs": "Dalton",
+    "hint": "guardaespaldas",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 373,
+    "name": "Chess",
+    "file": "373-chess.webp",
+    "nameEs": "Chess",
+    "hint": "invierno",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 374,
+    "name": "Kuromarimo",
+    "file": "374-kuromarimo.webp",
+    "nameEs": "Kuromarimo",
+    "hint": "afro",
+    "arc": 9,
+    "hintArc": 9
+  },
+  {
+    "rank": 375,
+    "name": "Sora",
+    "file": "375-sora.webp",
+    "nameEs": "Sora",
+    "hint": "sirena",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 376,
+    "name": "Lindbergh",
+    "file": "376-lindbergh.webp",
+    "nameEs": "Lindbergh",
+    "hint": "marine",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 377,
+    "name": "Gaimon",
+    "file": "377-gaimon.webp",
+    "nameEs": "Gaimon",
+    "hint": "guardián",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 378,
+    "name": "Charlotte Cinnamon",
+    "file": "378-charlotte_cinnamon.webp",
+    "nameEs": "Charlotte Cinnamon",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 379,
+    "name": "Hamburg",
+    "file": "379-hamburg.webp",
+    "nameEs": "Hamburg",
+    "hint": "torpe",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 380,
+    "name": "Porche",
+    "file": "380-porche.webp",
+    "nameEs": "Porche",
+    "hint": "joven",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 381,
+    "name": "Tonjit",
+    "file": "381-tonjit.webp",
+    "nameEs": "Tonjit",
+    "hint": "granjero",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 382,
+    "name": "Sheepshead",
+    "file": "382-sheepshead.webp",
+    "nameEs": "Sheepshead",
+    "hint": "soldado",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 383,
+    "name": "Morgans",
+    "file": "383-morgans.webp",
+    "nameEs": "Morgans",
+    "hint": "prensa",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 384,
+    "name": "Orlumbus",
+    "file": "384-orlumbus.webp",
+    "nameEs": "Orlumbus",
+    "hint": "flota",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 385,
+    "name": "McKinley",
+    "file": "385-mckinley.webp",
+    "nameEs": "McKinley",
+    "hint": "vicealmirante",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 386,
+    "name": "Yokozuna",
+    "file": "386-yokozuna.webp",
+    "nameEs": "Yokozuna",
+    "hint": "grande",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 387,
+    "name": "Comil",
+    "file": "387-comil.webp",
+    "nameEs": "Comil",
+    "hint": "banquete",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 388,
+    "name": "Strawberry",
+    "file": "388-strawberry.webp",
+    "nameEs": "Strawberry",
+    "hint": "sonrisa",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 389,
+    "name": "Aladine",
+    "file": "389-aladine.webp",
+    "nameEs": "Aladine",
+    "hint": "instructor",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 390,
+    "name": "Gambia",
+    "file": "390-gambia.webp",
+    "nameEs": "Gambia",
+    "hint": "pandilla",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 391,
+    "name": "Onimaru",
+    "file": "391-onimaru.webp",
+    "nameEs": "Onimaru",
+    "hint": "guardián",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 392,
+    "name": "S-Hawk",
+    "file": "392-s_hawk.webp",
+    "nameEs": "S-Hawk",
+    "hint": "silencioso",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 393,
+    "name": "Mr. 11",
+    "file": "393-mr_11.webp",
+    "nameEs": "Mr. 11",
+    "hint": "agente",
+    "arc": 8,
+    "hintArc": 8
+  },
+  {
+    "rank": 394,
+    "name": "Mr. 13",
+    "file": "394-mr_13.webp",
+    "nameEs": "Mr. 13",
+    "hint": "agente",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 395,
+    "name": "Fuza",
+    "file": "395-fuza.webp",
+    "nameEs": "Fuza",
+    "hint": "agente",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 396,
+    "name": "Big Pan",
+    "file": "396-big_pan.webp",
+    "nameEs": "Big Pan",
+    "hint": "gigante",
+    "arc": 13,
+    "hintArc": 13
+  },
+  {
+    "rank": 397,
+    "name": "Jigoro",
+    "file": "397-jigoro.webp",
+    "nameEs": "Jigoro",
+    "hint": "samurái",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 398,
+    "name": "Inuppe",
+    "file": "398-inuppe.webp",
+    "nameEs": "Inuppe",
+    "hint": "mascota",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 399,
+    "name": "Demalo Black",
+    "file": "399-demalo_black.webp",
+    "nameEs": "Demalo Black",
+    "hint": "revolucionario",
+    "arc": 23,
+    "hintArc": 23
+  },
+  {
+    "rank": 400,
+    "name": "Brannew",
+    "file": "400-brannew.webp",
+    "nameEs": "Brannew",
+    "hint": "oficina",
+    "arc": 5,
+    "hintArc": 5
+  },
+  {
+    "rank": 401,
+    "name": "Shimotsuki Kuina",
+    "file": "401-shimotsuki_kuina.webp",
+    "nameEs": "Shimotsuki Kuina",
+    "hint": "promesa",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 402,
+    "name": "Daz Bonez",
+    "file": "402-daz_bonez.webp",
+    "nameEs": "Daz Bonez",
+    "hint": "hoja",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 403,
+    "name": "Mr. 7",
+    "file": "403-mr_7.webp",
+    "nameEs": "Mr. 7",
+    "hint": "arma",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 404,
+    "name": "Miss Father's Day",
+    "file": "404-miss_fathers_day.webp",
+    "nameEs": "Miss Father's Day",
+    "hint": "agente encubierto",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 405,
+    "name": "Mr. 10",
+    "file": "405-mr_10.webp",
+    "nameEs": "Mr. 10",
+    "hint": "agente",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 406,
+    "name": "Thatch",
+    "file": "406-thatch.webp",
+    "nameEs": "Thatch",
+    "hint": "cocinero",
+    "arc": 16,
+    "hintArc": 30
+  },
+  {
+    "rank": 407,
+    "name": "Shimotsuki Koushirou",
+    "file": "407-shimotsuki_koushirou.webp",
+    "nameEs": "Shimotsuki Koushirou",
+    "hint": "dojo",
+    "arc": 0,
+    "hintArc": 0
+  },
+  {
+    "rank": 408,
+    "name": "Oars",
+    "file": "408-oars.webp",
+    "nameEs": "Oars",
+    "hint": "zombi",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 409,
+    "name": "Bogard",
+    "file": "409-bogard.webp",
+    "nameEs": "Bogard",
+    "hint": "capitán",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 410,
+    "name": "Squard",
+    "file": "410-squard.webp",
+    "nameEs": "Squard",
+    "hint": "arrepentimiento",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 411,
+    "name": "Little Oars Jr.",
+    "file": "411-little_oars_jr.webp",
+    "nameEs": "Pequeño Oars Jr.",
+    "hint": "imitador",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 412,
+    "name": "Coribou",
+    "file": "412-coribou.webp",
+    "nameEs": "Coribou",
+    "hint": "confusión",
+    "arc": 23,
+    "hintArc": 23
+  },
+  {
+    "rank": 413,
+    "name": "Caribou",
+    "file": "413-caribou.webp",
+    "nameEs": "Caribou",
+    "hint": "temido",
+    "arc": 23,
+    "hintArc": 23
+  },
+  {
+    "rank": 414,
+    "name": "Joy Boy",
+    "file": "414-joy_boy.webp",
+    "nameEs": "Joy Boy",
+    "hint": "antiguo",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 415,
+    "name": "Yeti Cool Brothers",
+    "file": "415-yeti_cool_brothers.webp",
+    "nameEs": "Hermanos Yeti Cool",
+    "hint": "nieve",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 416,
+    "name": "Bobby Funk",
+    "file": "416-bobby_funk.webp",
+    "nameEs": "Bobby Funk",
+    "hint": "nieve",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 417,
+    "name": "Kelly Funk",
+    "file": "417-kelly_funk.webp",
+    "nameEs": "Kelly Funk",
+    "hint": "invierno",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 418,
+    "name": "Mansherry",
+    "file": "418-mansherry.webp",
+    "nameEs": "Mansherry",
+    "hint": "niña",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 419,
+    "name": "Diez Barrels",
+    "file": "419-diez_barrels.webp",
+    "nameEs": "Diez Barrels",
+    "hint": "capitán",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 420,
+    "name": "Edward Weevil",
+    "file": "420-edward_weevil.webp",
+    "nameEs": "Edward Weevil",
+    "hint": "hijo",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 421,
+    "name": "Ikkaku",
+    "file": "421-ikkaku.webp",
+    "nameEs": "Ikkaku",
+    "hint": "brava",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 422,
+    "name": "Clione",
+    "file": "422-clione.webp",
+    "nameEs": "Clione",
+    "hint": "amable",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 423,
+    "name": "Vinsmoke Sora",
+    "file": "423-vinsmoke_sora.webp",
+    "nameEs": "Vinsmoke Sora",
+    "hint": "compasión",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 424,
+    "name": "Shimotsuki Ushimaru",
+    "file": "424-shimotsuki_ushimaru.webp",
+    "nameEs": "Shimotsuki Ushimaru",
+    "hint": "samurái",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 425,
+    "name": "Uta",
+    "file": "425-uta.webp",
+    "nameEs": "Uta",
+    "hint": "máscara",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 426,
+    "name": "Kojuro",
+    "file": "426-kojuro.webp",
+    "nameEs": "Kojuro",
+    "hint": "vasallo",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 427,
+    "name": "Fugetsu Omusubi",
+    "file": "427-fugetsu_omusubi.webp",
+    "nameEs": "Fugetsu Omusubi",
+    "hint": "cocinero",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 428,
+    "name": "T Bone",
+    "file": "428-t_bone.webp",
+    "nameEs": "T Bone",
+    "hint": "honor",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 429,
+    "name": "Miss Friday",
+    "file": "429-miss_friday.webp",
+    "nameEs": "Miss Friday",
+    "hint": "agente",
+    "arc": 7,
+    "hintArc": 7
+  },
+  {
+    "rank": 430,
+    "name": "Laboon",
+    "file": "430-laboon.webp",
+    "nameEs": "Laboon",
+    "hint": "cicatriz",
+    "arc": 6,
+    "hintArc": 6
+  },
+  {
+    "rank": 431,
+    "name": "Momoo",
+    "file": "431-momoo.webp",
+    "nameEs": "Momoo",
+    "hint": "mascota",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 432,
+    "name": "Lassoo",
+    "file": "432-lassoo.webp",
+    "nameEs": "Lassoo",
+    "hint": "cachorro",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 433,
+    "name": "Omatsuri",
+    "file": "433-omatsuri.webp",
+    "nameEs": "Omatsuri",
+    "hint": "anfitrión",
+    "arc": 12,
+    "hintArc": 12
+  },
+  {
+    "rank": 434,
+    "name": "Funkfreed",
+    "file": "434-funkfreed.webp",
+    "nameEs": "Funkfreed",
+    "hint": "arma",
+    "arc": 14,
+    "hintArc": 14
+  },
+  {
+    "rank": 435,
+    "name": "Miss Thursday",
+    "file": "435-miss_thursday.webp",
+    "nameEs": "Miss Thursday",
+    "hint": "agente",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 436,
+    "name": "Miss Tuesday",
+    "file": "436-miss_tuesday.webp",
+    "nameEs": "Miss Tuesday",
+    "hint": "agente",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 437,
+    "name": "Yamakaji",
+    "file": "437-yamakaji.webp",
+    "nameEs": "Yamakaji",
+    "hint": "vicealmirante",
+    "arc": 15,
+    "hintArc": 15
+  },
+  {
+    "rank": 438,
+    "name": "Rosward Rosward",
+    "file": "438-rosward_rosward.webp",
+    "nameEs": "Rosward Rosward",
+    "hint": "aristócrata",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 439,
+    "name": "Rosward Shalria",
+    "file": "439-rosward_shalria.webp",
+    "nameEs": "Rosward Shalria",
+    "hint": "hija",
+    "arc": 18,
+    "hintArc": 18
+  },
+  {
+    "rank": 440,
+    "name": "Gyro",
+    "file": "440-gyro.webp",
+    "nameEs": "Gyro",
+    "hint": "yoyo",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 441,
+    "name": "Z",
+    "file": "441-z.webp",
+    "nameEs": "Z",
+    "hint": "prótesis",
+    "arc": 25,
+    "hintArc": 25
+  },
+  {
+    "rank": 442,
+    "name": "Trafalgar Lami",
+    "file": "442-trafalgar_lami.webp",
+    "nameEs": "Trafalgar Lami",
+    "hint": "recuerdo",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 443,
+    "name": "Capone Pez",
+    "file": "443-capone_pez.webp",
+    "nameEs": "Capone Pez",
+    "hint": "niño",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 444,
+    "name": "Charlotte Counter",
+    "file": "444-charlotte_counter.webp",
+    "nameEs": "Charlotte Counter",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 445,
+    "name": "Charlotte Nutmeg",
+    "file": "445-charlotte_nutmeg.webp",
+    "nameEs": "Charlotte Nutmeg",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 446,
+    "name": "Charlotte Newshi",
+    "file": "446-charlotte_newshi.webp",
+    "nameEs": "Charlotte Newshi",
+    "hint": "guerrera",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 447,
+    "name": "Douglas Bullet",
+    "file": "447-douglas_bullet.webp",
+    "nameEs": "Douglas Bullet",
+    "hint": "coliseo",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 448,
+    "name": "Buena Festa",
+    "file": "448-buena_festa.webp",
+    "nameEs": "Buena Festa",
+    "hint": "impresario",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 449,
+    "name": "Kurozumi Semimaru",
+    "file": "449-kurozumi_semimaru.webp",
+    "nameEs": "Kurozumi Semimaru",
+    "hint": "traidor",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 450,
+    "name": "Kurozumi Higurashi",
+    "file": "450-kurozumi_higurashi.webp",
+    "nameEs": "Kurozumi Higurashi",
+    "hint": "consejero",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 451,
+    "name": "Doll",
+    "file": "451-doll.webp",
+    "nameEs": "Doll",
+    "hint": "misteriosa",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 452,
+    "name": "S-Shark",
+    "file": "452-s_shark.webp",
+    "nameEs": "S-Shark",
+    "hint": "arma",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 453,
+    "name": "S-Snake",
+    "file": "453-s_snake.webp",
+    "nameEs": "S-Snake",
+    "hint": "androide",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 454,
+    "name": "S-Bear",
+    "file": "454-s_bear.webp",
+    "nameEs": "S-Bear",
+    "hint": "androide",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 455,
+    "name": "Kentauros",
+    "file": "455-kentauros.webp",
+    "nameEs": "Kentauros",
+    "hint": "mitología",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 456,
+    "name": "Heracles",
+    "file": "456-heracles.webp",
+    "nameEs": "Heracles",
+    "hint": "gladiador",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 457,
+    "name": "Minotaurus",
+    "file": "457-minotaurus.webp",
+    "nameEs": "Minotaurus",
+    "hint": "laberinto",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 458,
+    "name": "Minorhinoceros",
+    "file": "458-minorhinoceros.webp",
+    "nameEs": "Minorhinoceros",
+    "hint": "gladiador",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 459,
+    "name": "Minokoala",
+    "file": "459-minokoala.webp",
+    "nameEs": "Minokoala",
+    "hint": "tierno",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 460,
+    "name": "Blue Fan",
+    "file": "460-blue_fan.webp",
+    "nameEs": "Blue Fan",
+    "hint": "gladiador",
+    "arc": 19,
+    "hintArc": 19
+  },
+  {
+    "rank": 461,
+    "name": "Gyoro, Nin, and Bao",
+    "file": "461-gyoro_nin_and_bao.webp",
+    "nameEs": "Gyoro, Nin y Bao",
+    "hint": "guardianes",
+    "arc": 17,
+    "hintArc": 17
+  },
+  {
+    "rank": 462,
+    "name": "Hera (Gladiator)",
+    "file": "462-hera_gladiator.webp",
+    "nameEs": "Hera (Gladiadora)",
+    "hint": "fuerte",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 463,
+    "name": "Gatz",
+    "file": "463-gatz.webp",
+    "nameEs": "Gatz",
+    "hint": "casino",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 464,
+    "name": "Gild Tesoro",
+    "file": "464-gild_tesoro.webp",
+    "nameEs": "Gild Tesoro",
+    "hint": "avaricia",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 465,
+    "name": "Carmel",
+    "file": "465-carmel.webp",
+    "nameEs": "Carmel",
+    "hint": "orfanato",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 466,
+    "name": "Gerd",
+    "file": "466-gerd.webp",
+    "nameEs": "Gerd",
+    "hint": "guerrera",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 467,
+    "name": "Charlotte Broyé",
+    "file": "467-charlotte_broye.webp",
+    "nameEs": "Charlotte Broyé",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 468,
+    "name": "Charlotte Angel",
+    "file": "468-charlotte_angel.webp",
+    "nameEs": "Charlotte Angel",
+    "hint": "dulce",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 469,
+    "name": "Charlotte Cornstarch",
+    "file": "469-charlotte_cornstarch.webp",
+    "nameEs": "Charlotte Cornstarch",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 470,
+    "name": "Nefertari Titi",
+    "file": "470-nefertari_titi.webp",
+    "nameEs": "Nefertari Titi",
+    "hint": "recuerdo",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 471,
+    "name": "Prince Grus",
+    "file": "471-prince_grus.webp",
+    "nameEs": "Príncipe Grus",
+    "hint": "gobernante",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 472,
+    "name": "Figarland Garling",
+    "file": "472-figarland_garling.webp",
+    "nameEs": "Figarland Garling",
+    "hint": "supremo",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 473,
+    "name": "Figarland Shamrock",
+    "file": "473-figarland_shamrock.webp",
+    "nameEs": "Figarland Shamrock",
+    "hint": "caballero",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 474,
+    "name": "Ylva",
+    "file": "474-ylva.webp",
+    "nameEs": "Ylva",
+    "hint": "guerrera",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 475,
+    "name": "Wolf (Elbaph)",
+    "file": "475-wolf_elbaph.webp",
+    "nameEs": "Wolf (Elbaph)",
+    "hint": "gigante",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 476,
+    "name": "Skaldi",
+    "file": "476-skaldi.webp",
+    "nameEs": "Skaldi",
+    "hint": "bárbaro",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 477,
+    "name": "Estrid",
+    "file": "477-estrid.webp",
+    "nameEs": "Estrid",
+    "hint": "valquiria",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 478,
+    "name": "Erik (Giant)",
+    "file": "478-erik_giant.webp",
+    "nameEs": "Erik (Gigante)",
+    "hint": "vikingo",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 479,
+    "name": "Nezumi",
+    "file": "479-nezumi.webp",
+    "nameEs": "Nezumi",
+    "hint": "corrupto",
+    "arc": 4,
+    "hintArc": 4
+  },
+  {
+    "rank": 480,
+    "name": "Zala",
+    "file": "480-zala.webp",
+    "nameEs": "Zala",
+    "hint": "misteriosa",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 481,
+    "name": "Ipponmatsu",
+    "file": "481-ipponmatsu.webp",
+    "nameEs": "Ipponmatsu",
+    "hint": "guardián",
+    "arc": 5,
+    "hintArc": 5
+  },
+  {
+    "rank": 482,
+    "name": "Ideaman",
+    "file": "482-ideaman.webp",
+    "nameEs": "Ideaman",
+    "hint": "asistente",
+    "arc": 3,
+    "hintArc": 3
+  },
+  {
+    "rank": 483,
+    "name": "Farafra",
+    "file": "483-farafra.webp",
+    "nameEs": "Farafra",
+    "hint": "oasis",
+    "arc": 10,
+    "hintArc": 10
+  },
+  {
+    "rank": 484,
+    "name": "Fillonce",
+    "file": "484-fillonce.webp",
+    "nameEs": "Fillonce",
+    "hint": "aristócrata",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 485,
+    "name": "Donquixote Homing",
+    "file": "485-donquixote_homing.webp",
+    "nameEs": "Donquixote Homing",
+    "hint": "renuncia",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 486,
+    "name": "Charlotte Anglais",
+    "file": "486-charlotte_anglais.webp",
+    "nameEs": "Charlotte Anglais",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 487,
+    "name": "Charlotte Joscarpone",
+    "file": "487-charlotte_joscarpone.webp",
+    "nameEs": "Charlotte Joscarpone",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 488,
+    "name": "Charlotte Custard",
+    "file": "488-charlotte_custard.webp",
+    "nameEs": "Charlotte Custard",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 489,
+    "name": "Charlotte Marnier",
+    "file": "489-charlotte_marnier.webp",
+    "nameEs": "Charlotte Marnier",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 490,
+    "name": "Jibuemon",
+    "file": "490-jibuemon.webp",
+    "nameEs": "Jibuemon",
+    "hint": "vasallo",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 491,
+    "name": "Charlotte Marble",
+    "file": "491-charlotte_marble.webp",
+    "nameEs": "Charlotte Marble",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 492,
+    "name": "Charlotte Panna",
+    "file": "492-charlotte_panna.webp",
+    "nameEs": "Charlotte Panna",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 493,
+    "name": "Bomba (Marine)",
+    "file": "493-bomba_marine.webp",
+    "nameEs": "Bomba (Marina)",
+    "hint": "uniforme",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 494,
+    "name": "Kumagoro",
+    "file": "494-kumagoro.webp",
+    "nameEs": "Kumagoro",
+    "hint": "peluche",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 495,
+    "name": "Kobe",
+    "file": "495-kobe.webp",
+    "nameEs": "Kobe",
+    "hint": "rebelde",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 496,
+    "name": "Rakuda",
+    "file": "496-rakuda.webp",
+    "nameEs": "Rakuda",
+    "hint": "mercader",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 497,
+    "name": "Charlotte Basans",
+    "file": "497-charlotte_basans.webp",
+    "nameEs": "Charlotte Basans",
+    "hint": "general",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 498,
+    "name": "Bongo",
+    "file": "498-bongo.webp",
+    "nameEs": "Bongo",
+    "hint": "tripulante",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 499,
+    "name": "Doha Ittanka II",
+    "file": "499-doha_ittanka_ii.webp",
+    "nameEs": "Doha Ittanka II",
+    "hint": "escolta",
+    "arc": 20,
+    "hintArc": 20
+  },
+  {
+    "rank": 500,
+    "name": "Toyama Tsujigiro",
+    "file": "500-toyama_tsujigiro.webp",
+    "nameEs": "Toyama Tsujigiro",
+    "hint": "verdugo",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 530,
+    "name": "Vito",
+    "file": "530-vito.webp",
+    "nameEs": "Vito",
+    "hint": "mafioso",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 531,
+    "name": "Gotti",
+    "file": "531-gotti.webp",
+    "nameEs": "Gotti",
+    "hint": "mafioso",
+    "arc": 28,
+    "hintArc": 28
+  },
+  {
+    "rank": 532,
+    "name": "Dagama",
+    "file": "532-dagama.webp",
+    "nameEs": "Dagama",
+    "hint": "estratega",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 533,
+    "name": "Abdullah",
+    "file": "533-abdullah.webp",
+    "nameEs": "Abdullah",
+    "hint": "gladiador",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 534,
+    "name": "Jeet",
+    "file": "534-jeet.webp",
+    "nameEs": "Jeet",
+    "hint": "gladiador",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 535,
+    "name": "Shishilian",
+    "file": "535-shishilian.webp",
+    "nameEs": "Shishilian",
+    "hint": "mosquetero",
+    "arc": 27,
+    "hintArc": 27
+  },
+  {
+    "rank": 536,
+    "name": "Ginrummy",
+    "file": "536-ginrummy.webp",
+    "nameEs": "Ginrummy",
+    "hint": "enmascarada",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 537,
+    "name": "Daifugo",
+    "file": "537-daifugo.webp",
+    "nameEs": "Daifugo",
+    "hint": "escorpión",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 538,
+    "name": "Joseph",
+    "file": "538-joseph.webp",
+    "nameEs": "Joseph",
+    "hint": "agente",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 539,
+    "name": "Guernika",
+    "file": "539-guernika.webp",
+    "nameEs": "Guernika",
+    "hint": "agente",
+    "arc": 30,
+    "hintArc": 30
+  },
+  {
+    "rank": 540,
+    "name": "Gion",
+    "file": "540-gion.webp",
+    "nameEs": "Gion",
+    "hint": "vicealmirante",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 541,
+    "name": "Tokikake",
+    "file": "541-tokikake.webp",
+    "nameEs": "Tokikake",
+    "hint": "vicealmirante",
+    "arc": 29,
+    "hintArc": 29
+  },
+  {
+    "rank": 542,
+    "name": "Hibari",
+    "file": "542-hibari.webp",
+    "nameEs": "Hibari",
+    "hint": "marine",
+    "arc": 26,
+    "hintArc": 26
+  },
+  {
+    "rank": 543,
+    "name": "Dalmatian",
+    "file": "543-dalmatian.webp",
+    "nameEs": "Dalmatian",
+    "hint": "dálmata",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 544,
+    "name": "Limejuice",
+    "file": "544-limejuice.webp",
+    "nameEs": "Limejuice",
+    "hint": "shanks",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 545,
+    "name": "Building Snake",
+    "file": "545-building_snake.webp",
+    "nameEs": "Building Snake",
+    "hint": "navegante",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 546,
+    "name": "Hongo",
+    "file": "546-hongo.webp",
+    "nameEs": "Hongo",
+    "hint": "médico",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 547,
+    "name": "Bonk Punch",
+    "file": "547-bonk_punch.webp",
+    "nameEs": "Bonk Punch",
+    "hint": "mono",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 548,
+    "name": "Gab",
+    "file": "548-gab.webp",
+    "nameEs": "Gab",
+    "hint": "shanks",
+    "arc": 21,
+    "hintArc": 21
+  },
+  {
+    "rank": 549,
+    "name": "John",
+    "file": "549-john.webp",
+    "nameEs": "Capitán John",
+    "hint": "tesoro",
+    "arc": 1,
+    "hintArc": 1
+  },
+  {
+    "rank": 550,
+    "name": "Ochoku",
+    "file": "550-ochoku.webp",
+    "nameEs": "Ochoku",
+    "hint": "rocks",
+    "arc": 31,
+    "hintArc": 31
+  },
+  {
+    "rank": 551,
+    "name": "Den",
+    "file": "551-den.webp",
+    "nameEs": "Den",
+    "hint": "carpintero",
+    "arc": 24,
+    "hintArc": 24
+  },
+  {
+    "rank": 552,
+    "name": "Banchina",
+    "file": "552-banchina.webp",
+    "nameEs": "Banchina",
+    "hint": "madre",
+    "arc": 2,
+    "hintArc": 2
+  },
+  {
+    "rank": 553,
+    "name": "Jarul",
+    "file": "553-jarul.webp",
+    "nameEs": "Jarul",
+    "hint": "anciano",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 554,
+    "name": "Shepherd Sommers",
+    "file": "554-shepherd_sommers.webp",
+    "nameEs": "Shepherd Sommers",
+    "hint": "caballero",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 555,
+    "name": "Rimoshifu Killingham",
+    "file": "555-rimoshifu_killingham.webp",
+    "nameEs": "Rimoshifu Killingham",
+    "hint": "caballero",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 556,
+    "name": "Manmayer Gunko",
+    "file": "556-manmayer_gunko.webp",
+    "nameEs": "Gunko",
+    "hint": "caballero",
+    "arc": 32,
+    "hintArc": 32
+  },
+  {
+    "rank": 557,
+    "name": "Nefertari D. Lili",
+    "file": "557-nefertari_d_lili.webp",
+    "nameEs": "Nefertari Lili",
+    "hint": "reina",
+    "arc": 29,
+    "hintArc": 29
+  }
+]

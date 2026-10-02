@@ -1,0 +1,500 @@
+1. Monkey D. Luffy
+2. Roronoa Zoro
+3. Nami
+4. Usopp
+5. Sanji
+6. Tony Tony Chopper
+7. Nico Robin
+8. Franky
+9. Brook
+10. Jinbe
+11. Portgas D. Ace
+12. Trafalgar Law
+13. Shanks
+14. Boa Hancock
+15. Dracule Mihawk
+16. Edward Newgate
+17. Marshall D. Teach
+18. Kaido
+19. Charlotte Linlin
+20. Donquixote Doflamingo
+21. Crocodile
+22. Buggy
+23. Nefertari Vivi
+24. Sabo
+25. Smoker
+26. Tashigi
+27. Monkey D. Garp
+28. Silvers Rayleigh
+29. Gol D. Roger
+30. Sakazuki
+31. Borsalino
+32. Kuzan
+33. Sengoku
+34. Rob Lucci
+35. Enel
+36. Gecko Moria
+37. Bartholomew Kuma
+38. Perona
+39. Eustass Kid
+40. Killer
+41. Basil Hawkins
+42. Charlotte Katakuri
+43. Kozuki Oden
+44. Kozuki Momonosuke
+45. Yamato
+46. King
+47. Queen
+48. Jack
+49. Vinsmoke Reiju
+50. Carrot
+51. Coby
+52. Marco
+53. Bartolomeo
+54. Vegapunk
+55. Kin'emon
+56. Nekomamushi
+57. Inuarashi
+58. Caesar Clown
+59. Arlong
+60. Bepo
+61. Vinsmoke Judge
+62. Ivankov
+63. Koala
+64. Monkey D. Dragon
+65. Fujitora
+66. Charlotte Cracker
+67. Charlotte Smoothie
+68. Charlotte Perospero
+69. Charlotte Pudding
+70. Cavendish
+71. Rebecca
+72. Viola
+73. Diamante
+74. Trebol
+75. Pica
+76. Baby 5
+77. Sugar
+78. Kyros
+79. Hody Jones
+80. Shirahoshi
+81. Neptune
+82. Vander Decken IX
+83. Monet
+84. Vergo
+85. Spandam
+86. Kaku
+87. Kalifa
+88. Jabra
+89. Blueno
+90. Iceburg
+91. Paulie
+92. Absalom
+93. Hogback
+94. Cindry
+95. Duval
+96. Hatchan
+97. Wyper
+98. Gan Fall
+99. Bellamy
+100. Foxy
+101. Don Krieg
+102. Captain Kuro
+103. Wapol
+104. Mr. 3
+105. Mr. 1
+106. Miss Doublefinger
+107. Pell
+108. Chaka
+109. Magellan
+110. Hannyabal
+111. Sadi
+112. Inazuma
+113. Otohime
+114. Van Augur
+115. Jesus Burgess
+116. Avalo Pizarro
+117. Laffitte
+118. Shiryu
+119. Catarina Devon
+120. Sanjuan Wolf
+121. Ulti
+122. Page One
+123. Sasaki
+124. X Drake
+125. Black Maria
+126. Who's-Who
+127. Orochi
+128. Kanjuro
+129. Denjiro
+130. Kawamatsu
+131. Hyogoro
+132. Tama
+133. Toko
+134. Scratchmen Apoo
+135. Streusen
+136. Charlotte Snack
+137. Charlotte Oven
+138. Charlotte Daifuku
+139. Charlotte Compote
+140. Charlotte Galette
+141. Charlotte Brulee
+142. Marguerite
+143. Sandersonia
+144. Marigold
+145. Zeff
+146. Genzo
+147. Dellinger
+148. Senor Pink
+149. Riku Doldo III
+150. Vinsmoke Ichiji
+151. Donquixote Rosinante
+152. Bon Clay
+153. Sentomaru
+154. Nefertari Cobra
+155. Ryuma
+156. Pekoms
+157. Vinsmoke Niji
+158. Vinsmoke Yonji
+159. Raizo
+160. Kikunojo
+161. Ashura Doji
+162. Kozuki Toki
+163. Shimotsuki Yasuie
+164. Izo
+165. Fukurou
+166. Kumadori
+167. Fukaboshi
+168. Stussy
+169. York
+170. Shaka
+171. Bellemere
+172. Nojiko
+173. Kaya
+174. Alvida
+175. Morgan
+176. Gin
+177. Igaram
+178. Satori
+179. Shura
+180. Mohji
+181. Cabaji
+182. Domino
+183. Disco
+184. Nyon
+185. Charlotte Mont-d'Or
+186. Doc Q
+187. Stronger
+188. Oz
+189. Crocus
+190. Tsuru
+191. Miss Goldenweek
+192. Mr. 4
+193. Miss Merry Christmas
+194. Miss Valentine
+195. Mr. 5
+196. Aisa
+197. Conis
+198. Chiffon
+199. Charlotte Opera
+200. Charlotte Amande
+201. Jewelry Bonney
+202. Capone Bege
+203. Benn Beckman
+204. Vista
+205. Jozu
+206. Yasopp
+207. Lucky Roux
+208. Jean Bart
+209. Shachi
+210. Penguin
+211. Camie
+212. Komurasaki
+213. Shinobu
+214. Curly Dadan
+215. Nico Olvia
+216. Jaguar D. Saul
+217. Tom
+218. Kokoro
+219. Chimney
+220. Gonbe
+221. Makino
+222. Woop Slap
+223. Higuma
+224. Jango
+225. Buchi
+226. Sham
+227. Mr. 9
+228. Karoo
+229. Toto
+230. Dorry
+231. Broggy
+232. Montblanc Cricket
+233. Montblanc Noland
+234. Pagaya
+235. Ohm
+236. Gedatsu
+237. Genbo
+238. Mozu
+239. Kiwi
+240. Zambai
+241. Peepley Lulu
+242. Tilestone
+243. Lola
+244. Hildon
+245. Charlos
+246. Mjosgard
+247. Squardo
+248. Chew
+249. Clover
+250. Wadatsumi
+251. Megalo
+252. Tamago
+253. Pound
+254. Brownbeard
+255. Vasco Shot
+256. Pedro
+257. Wanda
+258. Onigumo
+259. Babanuki
+260. Chinjao
+261. Sai
+262. Boo
+263. Ideo
+264. Suleiman
+265. Hajrudin
+266. Elizabello II
+267. Leo
+268. Wicca
+269. Gancho
+270. Kabu
+271. Gladius
+272. Machvise
+273. Lao G
+274. Buffalo
+275. Charlotte Flampe
+276. Charlotte Praline
+277. Charlotte Cadenza
+278. Charlotte Citron
+279. Charlotte Anana
+280. Pythagoras
+281. Atlas
+282. Lilith
+283. Edison
+284. Saint Jaygarcia Saturn
+285. Im
+286. Karasu
+287. Morley
+288. Belo Betty
+289. Shiki
+290. Portgas D. Rouge
+291. Loki
+292. Harald
+293. Rockstar
+294. Smiley
+295. Urouge
+296. Wire
+297. Heat
+298. Kuroobi
+299. Bobbin
+300. Charlotte Mascarpone
+301. Marcus Mars
+302. Topman Warcury
+303. Ethanbaron V. Nusjuro
+304. Shepherd Ju Peter
+305. Aramaki
+306. Zeus
+307. Prometheus
+308. Napoleon
+309. Fisher Tiger
+310. Rocks D. Xebec
+311. Kong
+312. Hina
+313. Kureha
+314. Hiriluk
+315. Fukurokuju
+316. Shimotsuki Kouzaburou
+317. Kouzuki Sukiyaki
+318. Scopper Gaban
+319. Whitey Bay
+320. Ain
+321. Koza
+322. Yosaku
+323. Johnny
+324. Namur
+325. Haruta
+326. Curiel
+327. Blenheim
+328. Speed Jiru
+329. Fossa
+330. Blamenco
+331. Rakuyo
+332. Kingdew
+333. Atmos
+334. Momonga
+335. Doberman
+336. Manboshi
+337. Ryuboshi
+338. Hyouzou
+339. Ikaros Much
+340. Zeo
+341. Daruma
+342. Dosun
+343. Pappag
+344. Hack
+345. Blue Gilly
+346. Scarlett
+347. Sarquiss
+348. Giolla
+349. Maynard
+350. Bastille
+351. John Giant
+352. Zunesha
+353. Shyarly
+354. Aphelandra
+355. Saldeath
+356. Spandine
+357. Helmeppo
+358. Fullbody
+359. Patty
+360. Carne
+361. Pearl
+362. Richie
+363. Boodle
+364. Miss Monday
+365. Kamakiri
+366. Braham
+367. Hotori and Kotori
+368. Pierre
+369. Terracotta
+370. Masira
+371. Shoujou
+372. Dalton
+373. Chess
+374. Kuromarimo
+375. Sora
+376. Lindbergh
+377. Gaimon
+378. Charlotte Cinnamon
+379. Hamburg
+380. Porche
+381. Tonjit
+382. Sheepshead
+383. Morgans
+384. Orlumbus
+385. McKinley
+386. Yokozuna
+387. Comil
+388. Strawberry
+389. Aladine
+390. Gambia
+391. Onimaru
+392. S-Hawk
+393. Mr. 11
+394. Mr. 13
+395. Fuza
+396. Big Pan
+397. Jigoro
+398. Inuppe
+399. Demalo Black
+400. Brannew
+401. Shimotsuki Kuina
+402. Daz Bonez
+403. Mr. 7
+404. Miss Father's Day
+405. Mr. 10
+406. Thatch
+407. Shimotsuki Koushirou
+408. Oars
+409. Bogard
+410. Squard
+411. Little Oars Jr.
+412. Coribou
+413. Caribou
+414. Joy Boy
+415. Yeti Cool Brothers
+416. Bobby Funk
+417. Kelly Funk
+418. Mansherry
+419. Diez Barrels
+420. Edward Weevil
+421. Ikkaku
+422. Clione
+423. Vinsmoke Sora
+424. Shimotsuki Ushimaru
+425. Uta
+426. Kojuro
+427. Fugetsu Omusubi
+428. T Bone
+429. Miss Friday
+430. Laboon
+431. Momoo
+432. Lassoo
+433. Omatsuri
+434. Funkfreed
+435. Miss Thursday
+436. Miss Tuesday
+437. Yamakaji
+438. Rosward Rosward
+439. Rosward Shalria
+440. Gyro
+441. Z
+442. Trafalgar Lami
+443. Capone Pez
+444. Charlotte Counter
+445. Charlotte Nutmeg
+446. Charlotte Newshi
+447. Douglas Bullet
+448. Buena Festa
+449. Kurozumi Semimaru
+450. Kurozumi Higurashi
+451. Doll
+452. S-Shark
+453. S-Snake
+454. S-Bear
+455. Kentauros
+456. Heracles
+457. Minotaurus
+458. Minorhinoceros
+459. Minokoala
+460. Blue Fan
+461. Gyoro, Nin, and Bao
+462. Hera (Gladiator)
+463. Gatz
+464. Gild Tesoro
+465. Carmel
+466. Gerd
+467. Charlotte Broyé
+468. Charlotte Angel
+469. Charlotte Cornstarch
+470. Nefertari Titi
+471. Prince Grus
+472. Figarland Garling
+473. Figarland Shamrock
+474. Ylva
+475. Wolf (Elbaph)
+476. Skaldi
+477. Estrid
+478. Erik (Giant)
+479. Nezumi
+480. Zala
+481. Ipponmatsu
+482. Ideaman
+483. Farafra
+484. Fillonce
+485. Donquixote Homing
+486. Charlotte Anglais
+487. Charlotte Joscarpone
+488. Charlotte Custard
+489. Charlotte Marnier
+490. Jibuemon
+491. Charlotte Marble
+492. Charlotte Panna
+493. Bomba (Marine)
+494. Kumagoro
+495. Kobe
+496. Rakuda
+497. Charlotte Basans
+498. Bongo
+499. Doha Ittanka II
+500. Toyama Tsujigiro

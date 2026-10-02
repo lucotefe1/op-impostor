@@ -1,0 +1,200 @@
+1. Gomu Gomu no Mi
+2. Bara Bara no Mi
+3. Suke Suke no Mi
+4. Bomu Bomu no Mi
+5. Kiro Kiro no Mi
+6. Doru Doru no Mi
+7. Baku Baku no Mi
+8. Mane Mane no Mi
+9. Toge Toge no Mi
+10. Ori Ori no Mi
+11. Doku Doku no Mi
+12. Bane Bane no Mi
+13. Noro Noro no Mi
+14. Supa Supa no Mi
+15. Yomi Yomi no Mi
+16. Kage Kage no Mi
+17. Horo Horo no Mi
+18. Nikyu Nikyu no Mi
+19. Mero Mero no Mi
+20. Doa Doa no Mi
+21. Awa Awa no Mi
+22. Hana Hana no Mi
+23. Shari Shari no Mi
+24. Beri Beri no Mi
+25. Sabi Sabi no Mi
+26. Shiro Shiro no Mi
+27. Kama Kama no Mi
+28. Kibi Kibi no Mi
+29. Giro Giro no Mi
+30. Horu Horu no Mi
+31. Choki Choki no Mi
+32. Ato Ato no Mi
+33. Fuwa Fuwa no Mi
+34. Buku Buku no Mi
+35. Mira Mira no Mi
+36. Gasha Gasha no Mi
+37. Bari Bari no Mi
+38. Nui Nui no Mi
+39. Buki Buki no Mi
+40. Kobu Kobu no Mi
+41. Pamu Pamu no Mi
+42. Netsu Netsu no Mi
+43. Chiyu Chiyu no Mi
+44. Soru Soru no Mi
+45. Ope Ope no Mi
+46. Zushi Zushi no Mi
+47. Ito Ito no Mi
+48. Gura Gura no Mi
+49. Woshu Woshu no Mi
+50. Kira Kira no Mi
+51. Jake Jake no Mi
+52. Shibo Shibo no Mi
+53. Mera Mera no Mi
+54. Hie Hie no Mi
+55. Suna Suna no Mi
+56. Yami Yami no Mi
+57. Pika Pika no Mi
+58. Magu Magu no Mi
+59. Goro Goro no Mi
+60. Moku Moku no Mi
+61. Yuki Yuki no Mi
+62. Numa Numa no Mi
+63. Gasu Gasu no Mi
+64. Hito Hito no Mi
+65. Tori Tori no Mi, Model: Falcon
+66. Inu Inu no Mi, Model: Dachshund
+67. Neko Neko no Mi, Model: Leopard
+68. Ushi Ushi no Mi, Model: Bison
+69. Uma Uma no Mi
+70. Zou Zou no Mi
+71. Mogu Mogu no Mi
+72. Kame Kame no Mi
+73. Hebi Hebi no Mi, Model: Anaconda
+74. Inu Inu no Mi, Model: Kyubi no Kitsune
+75. Tori Tori no Mi, Model: Phoenix
+76. Ryu Ryu no Mi, Model: Pteranodon
+77. Ryu Ryu no Mi, Model: Spinosaurus
+78. Ryu Ryu no Mi, Model: Allosaurus
+79. Ryu Ryu no Mi, Model: Brachiosaurus
+80. Uo Uo no Mi, Model: Seiryu
+81. Hito Hito no Mi, Model: Daibutsu
+82. Inu Inu no Mi, Model: Wolf
+83. Sube Sube no Mi
+84. Toshi Toshi no Mi
+85. Jiki Jiki no Mi
+86. Wara Wara no Mi
+87. Oto Oto no Mi
+88. Poke Poke no Mi
+89. Deka Deka no Mi
+90. Mato Mato no Mi
+91. Fuku Fuku no Mi
+92. Hobi Hobi no Mi
+93. Guru Guru no Mi
+94. Beta Beta no Mi
+95. Sui Sui no Mi
+96. Ton Ton no Mi
+97. Hira Hira no Mi
+98. Ishi Ishi no Mi
+99. Fude Fude no Mi
+100. Nagi Nagi no Mi
+101. Maki Maki no Mi
+102. Pero Pero no Mi
+103. Bisu Bisu no Mi
+104. Bata Bata no Mi
+105. Kuri Kuri no Mi
+106. Memo Memo no Mi
+107. Mochi Mochi no Mi
+108. Hoya Hoya no Mi
+109. Kuku Kuku no Mi
+110. Gocha Gocha no Mi
+111. Oshi Oshi no Mi
+112. Toki Toki no Mi
+113. Juku Juku no Mi
+114. Shiku Shiku no Mi
+115. Wapu Wapu no Mi
+116. Riki Riki no Mi
+117. Nomi Nomi no Mi
+118. Shima Shima no Mi
+119. Gabu Gabu no Mi
+120. Muchi Muchi no Mi
+121. Nori Nori no Mi
+122. Tsutsu Tsutsu no Mi
+123. Iku Iku no Mi
+124. Aro Aro no Mi
+125. Iba Iba no Mi
+126. Hiso Hiso no Mi
+127. Atsu Atsu no Mi
+128. Ami Ami no Mi
+129. Peto Peto no Mi
+130. Koro Koro no Mi
+131. Moa Moa no Mi
+132. Kyubu Kyubu no Mi
+133. Jara Jara no Mi
+134. Iro Iro no Mi
+135. Goe Goe no Mi
+136. Kachi Kachi no Mi
+137. Noko Noko no Mi
+138. Modo Modo no Mi
+139. Mosa Mosa no Mi
+140. Nuke Nuke no Mi
+141. Goru Goru no Mi
+142. Raki Raki no Mi
+143. Bijo Bijo no Mi
+144. Uta Uta no Mi
+145. Dero Dero no Mi
+146. Kopi Kopi no Mi
+147. Kone Kone no Mi
+148. Maji Maji no Mi
+149. Nito Nito no Mi
+150. Hore Hore no Mi
+151. Nepa Nepa no Mi
+152. Mono Mono no Mi
+153. Ute Ute no Mi
+154. Pocha Pocha no Mi
+155. Bana Bana no Mi
+156. Deri Deri no Mi
+157. Basu Basu no Mi
+158. Nibi Nibi no Mi
+159. Chuni Chuni no Mi
+160. Mari Mari no Mi
+161. Shuku Shuku no Mi
+162. Homi Homi no Mi
+163. Mabo Mabo no Mi
+164. Riba Riba no Mi
+165. Nemu Nemu no Mi
+166. Kote Kote no Mi
+167. Peke Peke no Mi
+168. Kyara Kyara no Mi
+169. Inu Inu no Mi, Model: Jackal
+170. Ushi Ushi no Mi, Model: Giraffe
+171. Hebi Hebi no Mi, Model: King Cobra
+172. Tama Tama no Mi
+173. Sara Sara no Mi, Model: Axolotl
+174. Mushi Mushi no Mi, Model: Kabutomushi
+175. Mushi Mushi no Mi, Model: Suzumebachi
+176. Zou Zou no Mi, Model: Mammoth
+177. Tori Tori no Mi, Model: Albatross
+178. Inu Inu no Mi, Model: Tanuki
+179. Hebi Hebi no Mi, Model: Yamata no Orochi
+180. Hito Hito no Mi, Model: Onyudo
+181. Ryu Ryu no Mi, Model: Pachycephalosaurus
+182. Inu Inu no Mi, Model: Okuchi no Makami
+183. Ryu Ryu no Mi, Model: Triceratops
+184. Kumo Kumo no Mi, Model: Rosamygale Grauvogeli
+185. Neko Neko no Mi, Model: Saber Tiger
+186. Uma Uma no Mi, Model: Pegasus
+187. Batto Batto no Mi
+188. Inu Inu no Mi, Model: Hound
+189. Ryu Ryu no Mi, Model: Kirin
+190. Risu Risu no Mi, Model: Ratatoskr
+191. Ryu Ryu no Mi, Model: Nidhöggr
+192. Tori Tori no Mi, Model: Eagle
+193. Inu Inu no Mi, Model: Bake-danuki
+194. Batto Batto no Mi, Model: Vampire
+195. Tori Tori no Mi, Model: Nue
+196. Susu Susu no Mi
+197. Mori Mori no Mi
+198. Toro Toro no Mi
+199. Pasa Pasa no Mi
+200. Ame Ame no Mi
